@@ -1,2 +1,2 @@
-# Pixelmon-Evolved-1.12.X
+# Pixelmon-Evolved
 A hub for the Minecraft project Pixelmon Evolved
