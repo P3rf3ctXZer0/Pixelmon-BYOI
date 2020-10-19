@@ -1,6 +1,6 @@
 # Introduction
 
-	Welcome to the amazing world of Pixelmon. I made this pack with a desire to have the ultimate crossover. I really enjoy the source material but I hate having 19 games to play when I wish to catch them all. Thanks to the power of coding now we can on a voxel engine. Also simply catching monsters can get kind of boring.
+Welcome to the amazing world of Pixelmon. I made this pack with a desire to have the ultimate crossover. I really enjoy the source material but I hate having 19 games to play when I wish to catch them all. Thanks to the power of coding now we can on a voxel engine. Also simply catching monsters can get kind of boring.
 
 # Modlist
 
