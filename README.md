@@ -4,7 +4,7 @@ Welcome to the amazing world of Pixelmon. I made this pack with a desire to have
 
 # Modlist
 
-** -J-
+# -J-
 
 * JourneyMap - A minimap mod with waypoints, fullscreen map and death beacons.
 
@@ -12,6 +12,6 @@ Welcome to the amazing world of Pixelmon. I made this pack with a desire to have
 
 * Just Enough Items - A very polished and efficient recipe browser.
 
-** -P-
+# -P-
 
 * Pixelmon - A huge mod which adds lots of Pocket Monsters to the game with many forms and is turn based when engaged with other mons.
