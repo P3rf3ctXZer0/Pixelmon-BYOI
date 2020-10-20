@@ -14,7 +14,12 @@ Welcome to the amazing world of Pixelmon. I made this pack with a desire to have
 
 * Pixelmon - If at any point your playing and your battle refuses to end simply do "/endbattle" as a command.
 
+* Server Information - Twitch seems to randomly fail at uploading my server.dat so here is the exact information.
 
+Pixelmon Evolved
+73.185.156.214:25550
+
+* Twitch Issues - Twitch Launcher is for some reason exporting my pack with forestry even though it is not intended to be in my pack. Also some users have reported server information issues. If you suddenly get forestry when you download it please delete it.
 
 # Features 
 
