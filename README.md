@@ -12,6 +12,10 @@ Welcome to the amazing world of Pixelmon. I made this pack with a desire to have
 
 * Little Tiles - When using "Little Tiles" disable the "JEI" overlay or the preview will not work. I know there are lighting issues in the preview render but I am unsure how to solve them right now. Do not try to use the "Slice" option because it is very buggy. Check this link out for more details on how to use this mod. " https://github.com/CreativeMD/LittleTiles/wiki "
 
+* Pixelmon - If at any point your playing and your battle refuses to end simply do "/endbattle" as a command.
+
+
+
 # Features 
 
 * Build-centric - If you build it they will come. Legit a ton of ways to do basically anything.
@@ -244,6 +248,8 @@ Welcome to the amazing world of Pixelmon. I made this pack with a desire to have
 
 * Plants - Adds a ton of plants and pretty things to look at.
 
+* Prefabs - Adds starting Houses.
+
 * Project Storage - An infinitely scaling inventory size.
 
 # -Q-
@@ -274,6 +280,8 @@ Welcome to the amazing world of Pixelmon. I made this pack with a desire to have
 * Structurize - Backup, copy, export, import and paste structures into the world.
 
 # -T-
+
+* TellMe - Allows me to dump and list basically anything so I can fix things.
 
 * Tinkers Construct - Allows modular tools that can be given cool traits.
 
