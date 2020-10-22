@@ -1,4 +1,17 @@
 
+# Alternative links
+
+* Legend - CC = Curse Client - TL = Twitch Launcher - MC = MultiMC Client
+
+* Current Version- 23.0.0
+
+* MultiMC Alternative Download Link - https://www.dropbox.com/s/x9lw9p5xmonryqe/Pixelmon%20Evolved-MC-23.0.0.zip?dl=1
+
+* Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
+
+* Twitch Version Link - https://www.curseforge.com/minecraft/modpacks/pixelmon-evolved
+
+
 
 # Google Doc Version
 
@@ -10,6 +23,8 @@ Welcome to the amazing world of Pixelmon. I made this pack with a desire to have
 
 # FAQ
 
+* Alternative Links - Due to the many bugs with "Curse launcher (twitch launcher for now)" and the fact that my user base has preference I will also be hosting "technic launcher" versions and "MultiMC" versions. As a more permanent solution.
+
 * Little Tiles - When using "Little Tiles" disable the "JEI" overlay or the preview will not work. I know there are lighting issues in the preview render but I am unsure how to solve them right now. Do not try to use the "Slice" option because it is very buggy. Check this link out for more details on how to use this mod. " https://github.com/CreativeMD/LittleTiles/wiki "
 
 * Pixelmon - If at any point your playing and your battle refuses to end simply do "/endbattle" as a command.
@@ -19,7 +34,7 @@ Welcome to the amazing world of Pixelmon. I made this pack with a desire to have
 Pixelmon Evolved
 73.185.156.214:25550
 
-* Twitch Issues - Twitch Launcher is for some reason exporting my pack with forestry even though it is not intended to be in my pack. Also some users have reported server information issues. If you suddenly get forestry when you download it please delete it.
+* Twitch Issues - Twitch Launcher is for some reason exporting my pack with forestry even though it is not intended to be in my pack. Also some users have reported server information issues. If you suddenly get forestry or any mod not listed please delete it. Not doing so will make the pack crash or have other issues I cannot predict.
 
 # Features 
 
@@ -48,10 +63,6 @@ Pixelmon Evolved
 * A Little Extra Tiles - Adds even more options to little tiles.
 
 * Antighost - Rechecks block states around the player and resyncs with server if blocks don't match.
-
-* Apple core - A library mod.
-
-* Appleskin - A mod that shows how much saturation a food gives.
 
 * Apricorn Tree Farm - A Pixelmon addon with trees and tech support.
 
@@ -116,6 +127,8 @@ Pixelmon Evolved
 * Dynamic Trees Atum 2 - Adds "Dynamic Tree Support" to "Atum 2".
 
 * Dynamic Trees Biomes O Plenty Compat - Adds "Dynamic Tree Support" to "Biomes O Plenty".
+
+* Dynamic Trees Pam's Harvestcraft Compat - Adds "Dynamic Tree Support" to "Pam's Harvest Craft".
 
 * Dynamic Trees Pam's Trees - Adds "Dynamic Tree Support" to "Pam's Harvest Craft".
 
@@ -211,6 +224,8 @@ Pixelmon Evolved
 
 * Mantle - A library mod.
 
+* Max Potion ID Extender - Lifts the potion ID limit from 255 to basically unlimited
+
 * Metallurgy 4 Reforged - Adds many materials and even has "Tinkers Construct" support. Make alloys and other types of earth metal concoctions. 
 
 * Mixinbootstrap - A library mod.
@@ -263,11 +278,13 @@ Pixelmon Evolved
 
 # -R-
 
+* RandomPatches - A bunch of miscellaneous patches for Minecraft, including configurable read/login timeouts, player speed limits, End portal tweaks and other fixes and improvements.
+
+* RandomTweaks - A bunch of miscellaneous, vanilla-compatible tweaks for Minecraft, such as player head drops, sound system reloading and a time of day overlay.
+
 * ReAuth - Allows the user to re-login without having to restart their game.
 
 # -S-
-
-* Scaling Feast - Allow the player to increase maximum hunger.
 
 * Scaling Health - Allows the player to increase their maximum health and adds additional difficulty to enemies.
 
@@ -318,5 +335,5 @@ Pixelmon Evolved
 
 # Authors Notes
 
-I apologize but I need to redo this project. I have learned more ways I can make my project a great deal more awesome with significantly less performance hits. One of the most important things I have come to the conclusion of is I need to always fill out the data entry and changelog. If I remember to always do this and include information on what the pack tends to offer I will have an idea of what features could actually be missing. Please report broken recipes.
+None right now.
 
