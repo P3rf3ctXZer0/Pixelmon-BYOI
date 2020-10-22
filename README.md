@@ -11,7 +11,21 @@
 
 * Twitch Version Link - https://www.curseforge.com/minecraft/modpacks/pixelmon-evolved
 
+# Basic Information
 
+* Current Version - 23.0.0
+
+* Date - 10/22/2020 at 2:33am
+
+* Forge Version - forge-14.23.5.2854
+
+* Java Args -> -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true <-
+
+* Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
+
+* Memory Minimum Allocation - 6GB
+
+* Notes - None
 
 # Google Doc Version
 
@@ -332,8 +346,4 @@ Pixelmon Evolved
 * YUNGs Better Mineshafts - Overhauls mineshafts.
 
 * YUNGs Better Caves - Overhauls caves.
-
-# Authors Notes
-
-None right now.
 
