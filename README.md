@@ -3,7 +3,7 @@
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - https://www.dropbox.com/s/w7l9r15dey7ysqc/Pixelmon%20Evolved-MC-28.0.0.zip?dl=1
+* MultiMC Alternative Download Link - https://www.dropbox.com/s/xgxcegqd3rq4z8o/Pixelmon%20Evolved-MC-29.0.0.zip?dl=1
 
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
 
@@ -11,9 +11,9 @@
 
 # Basic Information
 
-* Current Version - 28.0.0
+* Current Version - 29.0.0
 
-* Date - 11/2/2020 at 12:17
+* Date - 11/2/2020 at 3:35pm
 
 * Forge Version - forge-14.23.5.2854
 
@@ -23,7 +23,7 @@
 
 * Memory Minimum Allocation - 6GB
 
-* Notes - Removing Tinkerers survival. Dynamic trees fixes I wanted are taken care of. Changed default configs for "Tinkers Compendium". Added recipe conflict manager in case I am not around. Please also remember to report broken recipes.
+* Notes - Just adding a use for all the food. This version is basically feature complete.
 
 # Google Doc Version
 
@@ -61,6 +61,8 @@ Pixelmon Evolved
 * Pocket Monsters - You can battle legit monsters which chill in your pocket when not in battle.
 
 * Questing - Coming to a modpack near you (some day)
+
+* Survival-centric - Leaderboards, Spice of Life and more encourage survival.
 
 * Tech-centric - Build amazing little machines using "Ender IO"
 
@@ -320,6 +322,8 @@ Pixelmon Evolved
 * Silent Lib - A library mod.
 
 * Simple Tomb - A gravestone manager.
+
+* The Spice of Life - Encourages dietary variety through diminishing returns.
 
 * Stackie - Gather items close together.
 
