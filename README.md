@@ -3,15 +3,17 @@
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - https://dl.dropboxusercontent.com/s/s8olnln84spfvy9/Pixelmon%20Evolved-MC-27.0.0.zip?dl=1
+* MultiMC Alternative Download Link - https://www.dropbox.com/s/w7l9r15dey7ysqc/Pixelmon%20Evolved-MC-28.0.0.zip?dl=1
+
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
+
 * Twitch Version Link - https://www.curseforge.com/minecraft/modpacks/pixelmon-evolved
 
 # Basic Information
 
-* Current Version - 27.0.0
+* Current Version - 28.0.0
 
-* Date - 11/1/2020 at 4:23pm
+* Date - 11/2/2020 at 12:17
 
 * Forge Version - forge-14.23.5.2854
 
@@ -19,9 +21,9 @@
 
 * Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
-* Memory Minimum Allocation - 6GB (7GB)
+* Memory Minimum Allocation - 6GB
 
-* Notes - Updating and adding even more tech mods. Finally added more shields. Started to work on different issues including shop. We take a first time log in hit. Also more ram is recommended this is heavily untested.
+* Notes - Removing Tinkerers survival. Dynamic trees fixes I wanted are taken care of. Changed default configs for "Tinkers Compendium". Added recipe conflict manager in case I am not around. Please also remember to report broken recipes.
 
 # Google Doc Version
 
@@ -307,6 +309,8 @@ Pixelmon Evolved
 
 * Refined Storage Addons - An addon mod for Refined Storage.
 
+* Refined Storage: Requestify - Keep your refined storage stocked with crafteable items.
+
 # -S-
 
 * Scaling Feast - A simple, balanced way to increase your maximum hunger. 
@@ -320,6 +324,8 @@ Pixelmon Evolved
 * Stackie - Gather items close together.
 
 * Stellar Fluid Conduits - Adds very powerful conduits.
+
+* stimmedcow : NoMoreRecipeConflict - Switch between conflicting craft recipes. 
 
 * Storage Tech - Add other disks for Refined Storage.
 
@@ -369,3 +375,4 @@ The mod is in active development, and many exciting new features are in the work
 * YUNGs Better Mineshafts - Overhauls mineshafts.
 
 * YUNGs Better Caves - Overhauls caves.
+
