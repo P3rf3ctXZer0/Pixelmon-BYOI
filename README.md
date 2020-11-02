@@ -1,21 +1,17 @@
 
 # Alternative links
 
-* Legend - CC = Curse Client - TL = Twitch Launcher - MC = MultiMC Client
+* Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* Current Version- 23.0.0
-
-* MultiMC Alternative Download Link - https://www.dropbox.com/s/x9lw9p5xmonryqe/Pixelmon%20Evolved-MC-23.0.0.zip?dl=1
-
+* MultiMC Alternative Download Link - https://dl.dropboxusercontent.com/s/s8olnln84spfvy9/Pixelmon%20Evolved-MC-27.0.0.zip?dl=1
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
-
 * Twitch Version Link - https://www.curseforge.com/minecraft/modpacks/pixelmon-evolved
 
 # Basic Information
 
-* Current Version - 23.0.0
+* Current Version - 27.0.0
 
-* Date - 10/22/2020 at 2:33am
+* Date - 11/1/2020 at 4:23pm
 
 * Forge Version - forge-14.23.5.2854
 
@@ -23,9 +19,9 @@
 
 * Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
-* Memory Minimum Allocation - 6GB
+* Memory Minimum Allocation - 6GB (7GB)
 
-* Notes - None
+* Notes - Updating and adding even more tech mods. Finally added more shields. Started to work on different issues including shop. We take a first time log in hit. Also more ram is recommended this is heavily untested.
 
 # Google Doc Version
 
@@ -78,6 +74,8 @@ Pixelmon Evolved
 
 * Antighost - Rechecks block states around the player and resyncs with server if blocks don't match.
 
+* Applecore - A library mod.
+
 * Apricorn Tree Farm - A Pixelmon addon with trees and tech support.
 
 * ArchitectureCraft TridentMC Version - Adds the ability to turn any whole block into many different shapes including smooth ramps.
@@ -91,6 +89,9 @@ Pixelmon Evolved
 * AutoRegLib - A library mod.
 
 # -B-
+
+* Baubles - An addon module and API for Thaumcraft.
+
 
 * Better Advancements - Makes the advancement screen bigger.
 
@@ -109,8 +110,6 @@ Pixelmon Evolved
 * Building Gadgets - A collection of gadgets that make building large structs a bit easier.
 
 # -C-
-
-* Champions - Randomly vanilla mobs will be super powered.
 
 * Chisel - Adds the ability to decorate blocks.
 
@@ -189,11 +188,11 @@ Pixelmon Evolved
 
 * FTB Quests - A mod for making quests.
 
-* FTB Ultimine - Break or mine connected blocks at the cost of tool health and hunger.
-
 * FTB Utilities - A land claim, home set, teleport and team mod.
 
 # -G-
+
+* Gauges and Switches - The Mod adds devices to output or measure redstone power in different style variants. Complete documentation, feature details, credits, and community references is on the github project page here.
 
 * GemsPlusPlus - Adds the many missing gems to the game and even has support for "Constructs Armory" and "Tinkers Construct"
 
@@ -240,9 +239,15 @@ Pixelmon Evolved
 
 * Max Potion ID Extender - Lifts the potion ID limit from 255 to basically unlimited
 
+* Mekanism - High-tech machinery, powerful energy generation, fancy gadgets and more. Now on Curse!
+
+* Mekanism Generators - Advanced energy generation for Mekanism.
+
 * Metallurgy 4 Reforged - Adds many materials and even has "Tinkers Construct" support. Make alloys and other types of earth metal concoctions. 
 
 * Mixinbootstrap - A library mod.
+
+* Moving Elevators - Moving Elevators adds real Elevators to Minecraft!
 
 * Mystical Agradditions - Adds tier 6 crops, Tinkers' support, Paxels and more to Mystical Agriculture!
 
@@ -298,7 +303,13 @@ Pixelmon Evolved
 
 * ReAuth - Allows the user to re-login without having to restart their game.
 
+* Refined Storage - An elegant solution to your hoarding problem.
+
+* Refined Storage Addons - An addon mod for Refined Storage.
+
 # -S-
+
+* Scaling Feast - A simple, balanced way to increase your maximum hunger. 
 
 * Scaling Health - Allows the player to increase their maximum health and adds additional difficulty to enemies.
 
@@ -306,12 +317,11 @@ Pixelmon Evolved
 
 * Simple Tomb - A gravestone manager.
 
-* Spartan Shields - Needing more Shields in Minecraft? You've come to the right place!
-
-
 * Stackie - Gather items close together.
 
 * Stellar Fluid Conduits - Adds very powerful conduits.
+
+* Storage Tech - Add other disks for Refined Storage.
 
 * Structurize - Backup, copy, export, import and paste structures into the world.
 
@@ -319,9 +329,20 @@ Pixelmon Evolved
 
 * TellMe - Allows me to dump and list basically anything so I can fix things.
 
+* The Betweenlands - The Betweenlands dimension is a dark and mysterious realm where strange, monstrous creatures roam amongst the remnants of long lost civilisations that have succumbed to the spread of decay. As dangerous as it is beautiful, there is much to explore and discover. The player must learn of their surroundings and keep their wits about them or else perish.
+The mod is in active development, and many exciting new features are in the works. These will include new dungeons, bosses and a race of NPCs.
+
 * Tinkers Construct - Allows modular tools that can be given cool traits.
 
+* Tinkers' Complement - Addon for Tinkers Construct to bring compatibility and features that don't fit in the base mod.
+
+* Tinker I/O - An addon to enhance Tinker's Construct Smeltery system.
+
 * Tinker's JEI - Adds "JEI" recipe support for "Tinkers Construct" and mods that add things to it.
+
+* Tinkers' Compendium (Tinkers' Defense) - An ever growing expansion of Tinkers' Construction.
+
+* Tinkers' Survival - An early game survival concept for Tinkers' Construct and Constructs' Armory. (Tinkes is love; tinkers is life!)
 
 * Tinkers Reforged - Adds additional "Tinkers Construct" Gear.
 
@@ -341,9 +362,10 @@ Pixelmon Evolved
 
 * Wawla - Shows players even more information about what they are looking at.
 
+* Waystones - Teleport back to activated waystones. For Survival, Adventure or Servers.
+
 # -Y-
 
 * YUNGs Better Mineshafts - Overhauls mineshafts.
 
 * YUNGs Better Caves - Overhauls caves.
-
