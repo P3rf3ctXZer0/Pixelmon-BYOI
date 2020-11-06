@@ -3,7 +3,7 @@
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - https://www.dropbox.com/s/xgxcegqd3rq4z8o/Pixelmon%20Evolved-MC-29.0.0.zip?dl=1
+* MultiMC Alternative Download Link - https://www.dropbox.com/s/0ur86h7isrms8hs/Pixelmon%20Evolved-TC-31.0.0.zip?dl=1
 
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
 
@@ -11,9 +11,9 @@
 
 # Basic Information
 
-* Current Version - 29.0.0
+* Current Version - 31.0.0
 
-* Date - 11/2/2020 at 3:35pm
+* Date - 11/5/2020 at 5:57am
 
 * Forge Version - forge-14.23.5.2854
 
@@ -21,9 +21,13 @@
 
 * Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
-* Memory Minimum Allocation - 6GB
+* Memory Minimum Allocation - 6GB (8GB)
 
-* Notes - Just adding a use for all the food. This version is basically feature complete.
+* Notes - Mystical add-ons and some ways to help search for ores, Champions was re-added and also added a way to make flowers appear.
+
+# Client Only Mods
+
+* Optifine - http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 
 # Google Doc Version
 
@@ -131,6 +135,10 @@ Pixelmon Evolved
 
 * Crafttweaker2 - Allows me to change and add recipes.
 
+* Champions - Creates elite mobs of different rarities, with enhanced stats and extra abilities.
+
+* CraftPresence - Completely Customize the way others see you play in Discord!
+
 * Creative Core - A library mod.
 
 * Cucumber - A library mod.
@@ -211,6 +219,8 @@ Pixelmon Evolved
 
 * Item Filters - A library mod.
 
+* Inventory HUD+ - Adds your main inventory to your HUD. And few other features.
+
 * ItemPhysics Full - A physics mod for items and drops.
 
 # -J-
@@ -222,6 +232,8 @@ Pixelmon Evolved
 * Just Enough Harvestcraft - Adds "JEI" "Harvest Craft" support.
 
 * Just Enough Items - A very polished and efficient recipe browser.
+
+* Just Enough Resources (JER) - A JEI addon that adds mob drops, ore gen, ..
 
 # -K-
 
@@ -253,6 +265,10 @@ Pixelmon Evolved
 
 * Moving Elevators - Moving Elevators adds real Elevators to Minecraft!
 
+* Mystical Adaptations - Seed Extractors, Insanium Armor, Insanium Tools & more.
+
+* Mystical Creations - Create custom Mystical Agriculture seeds.
+
 * Mystical Agradditions - Adds tier 6 crops, Tinkers' support, Paxels and more to Mystical Agriculture!
 
 * Mystical Agriculture - Grow your own materials as crops and have endless renewable resources.
@@ -266,6 +282,8 @@ Pixelmon Evolved
 * OnlinePictureFrame - Display pictures from the internet as pictures ingame.
 
 * Open Terrain Generator - A world generation and biome controller. It allows very distinct world generation and control.
+
+* Ore Excavation - A lightweight veinminer alternative.
 
 * OTG Dungeons - Adds endless dungeon dimension.
 
@@ -300,6 +318,8 @@ Pixelmon Evolved
 * Quark - A heavily modular mod that allows users many different features. They range from client side tweaks to physical world changes. Adds a sleep voting system.
 
 # -R-
+
+* Random Bone Meal Flowers - Randomizes the flowers spawned by bonemeal, allowing all (modded) types to spawn everywhere.
 
 * RandomPatches - A bunch of miscellaneous patches for Minecraft, including configurable read/login timeouts, player speed limits, End portal tweaks and other fixes and improvements.
 
