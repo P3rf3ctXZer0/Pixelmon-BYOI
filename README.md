@@ -3,7 +3,7 @@
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - https://www.dropbox.com/s/0ur86h7isrms8hs/Pixelmon%20Evolved-TC-31.0.0.zip?dl=1
+* MultiMC Alternative Download Link - https://www.dropbox.com/s/c7zyxgjett4wzh9/Pixelmon%20Evolved-MC-32.0.0.zip?dl=1
 
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
 
@@ -11,9 +11,9 @@
 
 # Basic Information
 
-* Current Version - 31.0.0
+* Current Version - 32.0.0
 
-* Date - 11/5/2020 at 5:57am
+* Date - 11/8/2020 at 1:53pm
 
 * Forge Version - forge-14.23.5.2854
 
@@ -23,7 +23,7 @@
 
 * Memory Minimum Allocation - 6GB (8GB)
 
-* Notes - Mystical add-ons and some ways to help search for ores, Champions was re-added and also added a way to make flowers appear.
+* Notes - Just updating.
 
 # Client Only Mods
 
