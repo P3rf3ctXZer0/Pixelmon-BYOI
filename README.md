@@ -3,7 +3,7 @@
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - https://www.dropbox.com/s/w7nbbbda9jn3r1s/Pixelmon%20Evolved-MC-33.0.0.zip?dl=1
+* MultiMC Alternative Download Link - https://www.dropbox.com/s/768580l5fuko0zh/Pixelmon%20Evolved-MC-34.0.0.zip?dl=1
 
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
 
@@ -11,9 +11,9 @@
 
 # Basic Information
 
-* Current Version - 33.0.0
+* Current Version - 34.0.0
 
-* Date - 11/8/2020 at 8:21pm
+* Date - 11/9/2020 at 3:52am
 
 * Forge Version - forge-14.23.5.2854
 
@@ -23,7 +23,7 @@
 
 * Memory Minimum Allocation - 6GB (8GB)
 
-* Notes - The world becomes bigger.
+* Notes - Trying to complete the pack.
 
 # Client Only Mods
 
@@ -41,6 +41,8 @@ Welcome to the amazing world of Pixelmon. I made this pack with a desire to have
 
 * Alternative Links - Due to the many bugs with "Curse launcher (twitch launcher for now)" and the fact that my user base has preference I will also be hosting "technic launcher" versions and "MultiMC" versions. As a more permanent solution.
 
+* Building Gadgets - The ultimate building tool. (Does not copy fluid.) (Does not destroy land claimed areas or overwrite existing blocks.)
+
 * Little Tiles - When using "Little Tiles" disable the "JEI" overlay or the preview will not work. I know there are lighting issues in the preview render but I am unsure how to solve them right now. Do not try to use the "Slice" option because it is very buggy. Check this link out for more details on how to use this mod. " https://github.com/CreativeMD/LittleTiles/wiki "
 
 * Pixelmon - If at any point your playing and your battle refuses to end simply do "/endbattle" as a command.
@@ -50,25 +52,34 @@ Welcome to the amazing world of Pixelmon. I made this pack with a desire to have
 Pixelmon Evolved
 73.185.156.214:25550
 
+* Structurize - It seems glitchy and half complete but functional. I recommend using "Building Gadgets Copy Paste Tool" to copy structures but if you build a "Minecolony" you should be able to use this item to make custom structures. Make sure that you have a working left and right mouse button because they didn't allow for custom hotkeys and you will see first hand it's a bit glitchy. 
+
 * Twitch Issues - Twitch Launcher is for some reason exporting my pack with forestry even though it is not intended to be in my pack. Also some users have reported server information issues. If you suddenly get forestry or any mod not listed please delete it. Not doing so will make the pack crash or have other issues I cannot predict.
 
 # Features 
 
-* Build-centric - If you build it they will come. Legit a ton of ways to do basically anything.
+* Build-centric - If you build it they will come. Legit a ton of ways to do basically anything. At this point we are one of the de facto building packs by the sheer level of options available.
 
-* Exploration - There is so much to explore!
+* Defenses - With the edition of  Electric Fences, Turrets and more you can make a truly amazing fortress.
 
-* Gear-centric - There is an insane amount of gear.
+* Exploration - There is so much to explore! I have added all available stable dimensions mods that allow for so much exploration.
+
+* Gear-centric - There is an insane amount of gear. Borderlands got nothing on us :D 
+
+* Land claim - We have land claim thanks to "FTBUtilities" I disabled the land claim for "Minecolonies" because the version we are using causes things to break with it activated.
+
 
 * Online Multiplayer - The complete experience.
 
 * Pocket Monsters - You can battle legit monsters which chill in your pocket when not in battle.
 
-* Questing - Coming to a modpack near you (some day)
+* PVP Ready - With land claim courtesy of "FTBUtilities" and defenses courtesy of "Open Modular Turrets" and "Security Craft" you can truly pvp.
 
-* Survival-centric - Leaderboards, Spice of Life and more encourage survival.
+* Questing - Coming to a modpack near you (some day) - "Not sure how to best implement it."
 
-* Tech-centric - Build amazing little machines using "Ender IO"
+* Survival-centric - Leaderboards, Spice of Life and more encourage survival. You will feel infinite pain if you lose your gear.
+
+* Tech-centric - Build amazing little machines using "Ender IO, Mekanism and Botania."
 
 # Modlist
 
@@ -157,7 +168,7 @@ Pixelmon Evolved
 
 * Dynamic Trees Biomes O Plenty Compat - Adds "Dynamic Tree Support" to "Biomes O Plenty".
 
-* Dynamic Trees Pam's Harvestcraft Compat - Adds "Dynamic Tree Support" to "Pam's Harvest Craft".
+* Dynamic Trees - Natura - Compatibility mod between Dynamic Trees and Natura.
 
 * Dynamic Trees Pam's Trees - Adds "Dynamic Tree Support" to "Pam's Harvest Craft".
 
@@ -269,6 +280,16 @@ Pixelmon Evolved
 
 * Mantle - A library mod.
 
+* Macaw's Bridges - A simple mod that adds a lot of bridges!
+
+* Macaw's Doors - Adds vanila doors with every wood color and new unique doors!
+
+* Macaw's Roofs - Build roofs with actual roofs instead of stairs!
+
+* Macaw's Windows - Adds over 100 windows into Minecraft! With all logs and planks variations.
+
+* More Buckets - Adds a bunch of useful buckets for different materials!
+
 * Max Potion ID Extender - Lifts the potion ID limit from 255 to basically unlimited
 
 * Mekanism - High-tech machinery, powerful energy generation, fancy gadgets and more. Now on Curse!
@@ -293,11 +314,19 @@ Pixelmon Evolved
 
 # -N-
 
+* Natura - A biome mod.
+
 * NetherEx - NetherEx is a Nether overhaul mod for Minecraft. It adds in new biomes, structures, mobs, and more!
 
 * Nomadic Tents - Custom little pocket dimensions. Take your base with you.
 
 # -O-
+
+* OMLib - A library mod.
+
+* Open Modular Passive Defense - Adds in passive defense.
+
+* Open Modular Turrets - A mod that adds tons of modular turrets, upgrades, add-ons, and general manly security measures!
 
 * OnlinePictureFrame - Display pictures from the internet as pictures ingame.
 
@@ -324,6 +353,8 @@ Pixelmon Evolved
 * Phosphor - Target optimization for lighting and shadow code. 
 
 * Pixelmon - A huge mod which adds lots of Pocket Monsters to the game with many forms and is turn based when engaged in battle with other pocket monsters.
+
+* Pixelmongo - Pixelmongo is an addon to Pixelmon that adds pixelmon pokestops to Minecraft.
 
 * Pixelmon Information for Pixelmon Reforged - A mod that adds Tooltips, JEI and Waila Additions for Pixelmon Reforged.
 
@@ -360,6 +391,8 @@ Pixelmon Evolved
 * Scaling Feast - A simple, balanced way to increase your maximum hunger. 
 
 * Scaling Health - Allows the player to increase their maximum health and adds additional difficulty to enemies.
+
+* Security Craft - SecurityCraft adds loads of different ways to protect your house with!
 
 * Silent Lib - A library mod.
 
