@@ -3,7 +3,7 @@
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - https://www.dropbox.com/s/c7zyxgjett4wzh9/Pixelmon%20Evolved-MC-32.0.0.zip?dl=1
+* MultiMC Alternative Download Link - https://www.dropbox.com/s/w7nbbbda9jn3r1s/Pixelmon%20Evolved-MC-33.0.0.zip?dl=1
 
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
 
@@ -11,9 +11,9 @@
 
 # Basic Information
 
-* Current Version - 32.0.0
+* Current Version - 33.0.0
 
-* Date - 11/8/2020 at 1:53pm
+* Date - 11/8/2020 at 8:21pm
 
 * Forge Version - forge-14.23.5.2854
 
@@ -23,7 +23,7 @@
 
 * Memory Minimum Allocation - 6GB (8GB)
 
-* Notes - Just updating.
+* Notes - The world becomes bigger.
 
 # Client Only Mods
 
@@ -115,6 +115,10 @@ Pixelmon Evolved
 
 * Biome's O Plenty - A mod which adds neat biomes and livens up the world.
 
+* Botania - An innovative natural magic themed tech mod.
+
+* Builder's Bag - Builder's Bag provides a useful bag which greatly improves quality of life while building.
+
 * Building Gadgets - A collection of gadgets that make building large structs a bit easier.
 
 # -C-
@@ -163,6 +167,10 @@ Pixelmon Evolved
 
 * Dynamic Trees Tinkers Construct - Adds "Dynamic Tree Support" to "Tinkers Construct".
 
+* Dynamic Trees - Forestry - Compatibility Mod between Dynamic trees and Forestry.
+
+* Dynamic Trees - The Twilight Forest - Compatibility Mod between Dynamic trees and Twilight Forest.
+
 # -E-
 
 * Ender Core - A library mod.
@@ -171,9 +179,13 @@ Pixelmon Evolved
 
 * Ender IO Endergy - Adds additional energy support for "Ender IO".
 
+* End: Reborn - The End is just the beginning...
+
 * Extra Bit Manipulation - Adds new ways to manipulate your chisels and bits.
 
 # -F-
+
+* Fairy Lights - This mod adds decorative string lights.
 
 * FancyMenu - Allows me to add and make a custom main menu and other various menus.
 
@@ -192,6 +204,9 @@ Pixelmon Evolved
 
 * FoamFix - A mod that optimizes many of the game's shortcomings. 
 
+
+* Forestry - Bringing bees, butterflies and more trees. as well as eco-friendly energy production and mail to Minecraft.
+
 * Forgelin - A library mod.
 
 * FTB Library - A library mod.
@@ -209,7 +224,6 @@ Pixelmon Evolved
 * GemsPlusPlus - Adds the many missing gems to the game and even has support for "Constructs Armory" and "Tinkers Construct"
 
 * Gotta Go Fast - Removes rubberbanding.
-
 
 # -H-
 
@@ -243,6 +257,8 @@ Pixelmon Evolved
 
 * Large Fluid Tank - Adds massive fluid tank for fluid storage.
 
+* LibraryEx - A library mod.
+
 * Lime Lib - A library mod.
 
 * Little Tiles - Adds a limitless way to use blocks.
@@ -261,6 +277,8 @@ Pixelmon Evolved
 
 * Metallurgy 4 Reforged - Adds many materials and even has "Tinkers Construct" support. Make alloys and other types of earth metal concoctions. 
 
+* MineColonies - Create a huge Town NPCs/Raids/Structures/Guards and many more.
+
 * Mixinbootstrap - A library mod.
 
 * Moving Elevators - Moving Elevators adds real Elevators to Minecraft!
@@ -274,6 +292,8 @@ Pixelmon Evolved
 * Mystical Agriculture - Grow your own materials as crops and have endless renewable resources.
 
 # -N-
+
+* NetherEx - NetherEx is a Nether overhaul mod for Minecraft. It adds in new biomes, structures, mobs, and more!
 
 * Nomadic Tents - Custom little pocket dimensions. Take your base with you.
 
@@ -296,6 +316,8 @@ Pixelmon Evolved
 # -P-
 
 * Pam's Harvestcraft - Adds a ton of crops, food, plants and trees. 
+
+* Patchouli - Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers.
 
 * Performant - A huge performance boosting mod. It changes and optimizes many pieces of code.
 
@@ -355,6 +377,8 @@ Pixelmon Evolved
 
 * Structurize - Backup, copy, export, import and paste structures into the world.
 
+* Stygian End: Biome Expansion - New biomes for the end dimension.
+
 # -T-
 
 * TellMe - Allows me to dump and list basically anything so I can fix things.
@@ -379,6 +403,8 @@ The mod is in active development, and many exciting new features are in the work
 * Tinker's Tool Leveling - Allows tools made with "Tinkers Construct" to level up over usage and time.
 
 * Toast Control - Disable annoying pop ups especially in the beginning.
+
+* Twilight Forest - A realm basked in mystery and eerie twilight, you will overpower terrifying creatures and secure the adventure of a lifetime; in the Twilight Forest.
 
 # -U-
 
