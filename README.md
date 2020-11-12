@@ -3,7 +3,7 @@
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - https://www.dropbox.com/s/768580l5fuko0zh/Pixelmon%20Evolved-MC-34.0.0.zip?dl=1
+* MultiMC Alternative Download Link - https://www.dropbox.com/s/e5cp18vedh3dac6/Pixelmon%20Evolved-MC-36.0.0.zip?dl=1
 
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
 
@@ -11,9 +11,9 @@
 
 # Basic Information
 
-* Current Version - 34.0.0
+* Current Version - 36.0.0
 
-* Date - 11/9/2020 at 3:52am
+* Date - 11/12/2020 at 10:06am
 
 * Forge Version - forge-14.23.5.2854
 
@@ -23,7 +23,7 @@
 
 * Memory Minimum Allocation - 6GB (8GB)
 
-* Notes - Trying to complete the pack.
+* Notes - Cleanup and slight editions.
 
 # Client Only Mods
 
@@ -40,6 +40,8 @@ Welcome to the amazing world of Pixelmon. I made this pack with a desire to have
 # FAQ
 
 * Alternative Links - Due to the many bugs with "Curse launcher (twitch launcher for now)" and the fact that my user base has preference I will also be hosting "technic launcher" versions and "MultiMC" versions. As a more permanent solution.
+
+* Better Records - In order to etch a record you first have to make it a "Direct" dropbox link. Do this by converting it with this tool. http://www.isgoodstuff.com/dropbox/
 
 * Building Gadgets - The ultimate building tool. (Does not copy fluid.) (Does not destroy land claimed areas or overwrite existing blocks.)
 
@@ -138,6 +140,10 @@ Pixelmon Evolved
 
 * Chisels and Bits - Adds a limitless way to use blocks.
 
+* Classic Combat - Restores combat as it was before the 1.9 Combat.
+
+* Compact Void Miners - Collects ores and fluids from the void.
+
 * Connected Textures Mod - A library mod.
 
 * Constructs Armory - Adds armor support to "Tinkers Construct".
@@ -231,8 +237,6 @@ Pixelmon Evolved
 # -G-
 
 * Gauges and Switches - The Mod adds devices to output or measure redstone power in different style variants. Complete documentation, feature details, credits, and community references is on the github project page here.
-
-* GemsPlusPlus - Adds the many missing gems to the game and even has support for "Constructs Armory" and "Tinkers Construct"
 
 * Gotta Go Fast - Removes rubberbanding.
 
@@ -400,6 +404,9 @@ Pixelmon Evolved
 
 * The Spice of Life - Encourages dietary variety through diminishing returns.
 
+* Spice of Life: Carrot Edition - A mod based around food that rewards the player instead of punishing them for discovering new foods!
+
+
 * Stackie - Gather items close together.
 
 * Stellar Fluid Conduits - Adds very powerful conduits.
@@ -437,6 +444,8 @@ The mod is in active development, and many exciting new features are in the work
 
 * Toast Control - Disable annoying pop ups especially in the beginning.
 
+* Tweakers Construct - Tweak various values within tinkers' construct.
+
 * Twilight Forest - A realm basked in mystery and eerie twilight, you will overpower terrifying creatures and secure the adventure of a lifetime; in the Twilight Forest.
 
 # -U-
@@ -458,4 +467,8 @@ The mod is in active development, and many exciting new features are in the work
 * YUNGs Better Mineshafts - Overhauls mineshafts.
 
 * YUNGs Better Caves - Overhauls caves.
+
+# -X-
+
+* xXx_MoreToolMats_xXx (a PlusTiC fork without the evil, and apparently some new bugs idk) - Minecraft mod for adding new tools to and integrating various mods with Tinkers Construct.
 
