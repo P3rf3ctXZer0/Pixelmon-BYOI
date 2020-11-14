@@ -3,7 +3,7 @@
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - https://www.dropbox.com/s/e5cp18vedh3dac6/Pixelmon%20Evolved-MC-36.0.0.zip?dl=1
+* MultiMC Alternative Download Link - https://www.dropbox.com/s/tsqffpohl6pltin/Pixelmon%20Evolved-MC-37.0.0.zip?dl=1
 
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
 
@@ -11,9 +11,9 @@
 
 # Basic Information
 
-* Current Version - 36.0.0
+* Current Version - 37.0.0
 
-* Date - 11/12/2020 at 10:06am
+* Date - 11/12/2020 at 11:33pm
 
 * Forge Version - forge-14.23.5.2854
 
@@ -21,9 +21,9 @@
 
 * Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
-* Memory Minimum Allocation - 6GB (8GB)
+* Memory Minimum Allocation - 6 GB (8 GB)
 
-* Notes - Cleanup and slight editions.
+* Notes - Cleaning up. Fixes registry issues.
 
 # Client Only Mods
 
@@ -358,8 +358,6 @@ Pixelmon Evolved
 
 * Pixelmon - A huge mod which adds lots of Pocket Monsters to the game with many forms and is turn based when engaged in battle with other pocket monsters.
 
-* Pixelmongo - Pixelmongo is an addon to Pixelmon that adds pixelmon pokestops to Minecraft.
-
 * Pixelmon Information for Pixelmon Reforged - A mod that adds Tooltips, JEI and Waila Additions for Pixelmon Reforged.
 
 * Placebo - A library mod.
@@ -467,8 +465,3 @@ The mod is in active development, and many exciting new features are in the work
 * YUNGs Better Mineshafts - Overhauls mineshafts.
 
 * YUNGs Better Caves - Overhauls caves.
-
-# -X-
-
-* xXx_MoreToolMats_xXx (a PlusTiC fork without the evil, and apparently some new bugs idk) - Minecraft mod for adding new tools to and integrating various mods with Tinkers Construct.
-
