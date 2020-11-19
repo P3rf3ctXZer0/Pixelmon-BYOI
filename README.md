@@ -3,7 +3,7 @@
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - https://www.dropbox.com/s/tsqffpohl6pltin/Pixelmon%20Evolved-MC-37.0.0.zip?dl=1
+* MultiMC Alternative Download Link - https://www.dropbox.com/s/nsxx1edjuic5ogm/Pixelmon%20Evolved-MC-39.0.0.zip?dl=1
 
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
 
@@ -11,23 +11,25 @@
 
 # Basic Information
 
-* Current Version - 37.0.0
+* Current Version - 39.0.0
 
-* Date - 11/12/2020 at 11:33pm
+* Date - 11/15/2020 at 4:17pm
 
 * Forge Version - forge-14.23.5.2854
 
-* Java Args -> -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true <-
+* Required Java Args -> -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true <-
 
 * Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
-* Memory Minimum Allocation - 6 GB (8 GB)
+* Memory Minimum Allocation - 6GB (8GB)
 
-* Notes - Cleaning up. Fixes registry issues.
+* Notes - Continuing our adventures in polishing things. Re-added the ability to make the instant prefabs.
 
 # Client Only Mods
 
-* Optifine - http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
+* Optifine - http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar (Mixed results)
+
+* Performant - https://www.curseforge.com/minecraft/mc-mods/performant (Mixed results)
 
 # Google Doc Version
 
@@ -151,6 +153,8 @@ Pixelmon Evolved
 * Controlled Burn - Gives me more control over how fire works.
 
 * Controlling - Adds an easy way to manage keybindings.
+
+* Corail Tombstones - A better gravestone mod.
 
 * Cosmetic Armor Reworked - Adds the ability to wear armor cosmetically.
 
@@ -286,11 +290,7 @@ Pixelmon Evolved
 
 * Macaw's Bridges - A simple mod that adds a lot of bridges!
 
-* Macaw's Doors - Adds vanila doors with every wood color and new unique doors!
-
 * Macaw's Roofs - Build roofs with actual roofs instead of stairs!
-
-* Macaw's Windows - Adds over 100 windows into Minecraft! With all logs and planks variations.
 
 * More Buckets - Adds a bunch of useful buckets for different materials!
 
@@ -301,8 +301,6 @@ Pixelmon Evolved
 * Mekanism Generators - Advanced energy generation for Mekanism.
 
 * Metallurgy 4 Reforged - Adds many materials and even has "Tinkers Construct" support. Make alloys and other types of earth metal concoctions. 
-
-* MineColonies - Create a huge Town NPCs/Raids/Structures/Guards and many more.
 
 * Mixinbootstrap - A library mod.
 
@@ -398,8 +396,6 @@ Pixelmon Evolved
 
 * Silent Lib - A library mod.
 
-* Simple Tomb - A gravestone manager.
-
 * The Spice of Life - Encourages dietary variety through diminishing returns.
 
 * Spice of Life: Carrot Edition - A mod based around food that rewards the player instead of punishing them for discovering new foods!
@@ -413,16 +409,13 @@ Pixelmon Evolved
 
 * Storage Tech - Add other disks for Refined Storage.
 
-* Structurize - Backup, copy, export, import and paste structures into the world.
-
 * Stygian End: Biome Expansion - New biomes for the end dimension.
 
 # -T-
 
 * TellMe - Allows me to dump and list basically anything so I can fix things.
 
-* The Betweenlands - The Betweenlands dimension is a dark and mysterious realm where strange, monstrous creatures roam amongst the remnants of long lost civilisations that have succumbed to the spread of decay. As dangerous as it is beautiful, there is much to explore and discover. The player must learn of their surroundings and keep their wits about them or else perish.
-The mod is in active development, and many exciting new features are in the works. These will include new dungeons, bosses and a race of NPCs.
+* The Betweenlands - The Betweenlands dimension is a dark and mysterious realm where strange, monstrous creatures roam amongst the remnants of long lost civilisations that have succumbed to the spread of decay. As dangerous as it is beautiful, there is much to explore and discover. The player must learn of their surroundings and keep their wits about them or else perish. The mod is in active development, and many exciting new features are in the works. These will include new dungeons, bosses and a race of NPCs.
 
 * Tinkers Construct - Allows modular tools that can be given cool traits.
 
@@ -433,8 +426,6 @@ The mod is in active development, and many exciting new features are in the work
 * Tinker's JEI - Adds "JEI" recipe support for "Tinkers Construct" and mods that add things to it.
 
 * Tinkers' Compendium (Tinkers' Defense) - An ever growing expansion of Tinkers' Construction.
-
-* Tinkers' Survival - An early game survival concept for Tinkers' Construct and Constructs' Armory. (Tinkes is love; tinkers is life!)
 
 * Tinkers Reforged - Adds additional "Tinkers Construct" Gear.
 
