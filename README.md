@@ -1,9 +1,16 @@
+# Actively Supporting Development
+
+![Bisect Hosting](https://media.discordapp.net/attachments/701616152266407998/779578734087766016/vertical_dark_text.png?width=1442&height=469 "Bisect Hosting")
+
+* We are now proudly supported by "Bisect Hosting" If you are looking for a stable and easy to understand server host with prompt and effective support for all your problems please consider giving them a try as I have been using them off and on since 2017 and I have to say compared to the competitors; they are bar none one of the best hosts out there. Lag-less and dedicated to performance their servers are fast and reliable. 
+
+* Use promo code "Zer0G" for a chunk off the service fee. Also, it helps support this and other future projects I release. ~ xWingedTenacityx#7693
 
 # Alternative links
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - https://www.dropbox.com/s/nsxx1edjuic5ogm/Pixelmon%20Evolved-MC-39.0.0.zip?dl=1
+* MultiMC Alternative Download Link - https://dl.dropboxusercontent.com/s/4kgo15i3949hr69/Pixelmon%20Evolved-MC-40.0.0.zip?dl=1
 
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
 
@@ -11,19 +18,19 @@
 
 # Basic Information
 
-* Current Version - 39.0.0
+* Current Version - 40.0.0
 
-* Date - 11/15/2020 at 4:17pm
+* Date - 11/20/2020 at 6:25pm
 
 * Forge Version - forge-14.23.5.2854
 
-* Required Java Args -> -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true <-
+* Required Java Args -&gt; -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true &lt;-
 
 * Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
 * Memory Minimum Allocation - 6GB (8GB)
 
-* Notes - Continuing our adventures in polishing things. Re-added the ability to make the instant prefabs.
+* Notes - This is the first update since being supported by "Bisect Hosting" I am trying to make building easier and updating mods that had updates. Also, I am adding a rent a server link.
 
 # Client Only Mods
 
@@ -50,6 +57,8 @@ Welcome to the amazing world of Pixelmon. I made this pack with a desire to have
 * Little Tiles - When using "Little Tiles" disable the "JEI" overlay or the preview will not work. I know there are lighting issues in the preview render but I am unsure how to solve them right now. Do not try to use the "Slice" option because it is very buggy. Check this link out for more details on how to use this mod. " https://github.com/CreativeMD/LittleTiles/wiki "
 
 * Pixelmon - If at any point your playing and your battle refuses to end simply do "/endbattle" as a command.
+
+* Refined Storage - https://youtu.be/DihKGPOXgAs 
 
 * Server Information - Twitch seems to randomly fail at uploading my server.dat so here is the exact information.
 
@@ -104,6 +113,8 @@ Pixelmon Evolved
 * ArchitectureCraft TridentMC Version - Adds the ability to turn any whole block into many different shapes including smooth ramps.
 
 * Armory Expansion - Adds additional material support for "Constructs Armory".
+
+* Architect - Large scale building made fun again. Allows for easy construction.
 
 * AttributeFix - Remove all limitations.
 
@@ -302,6 +313,8 @@ Pixelmon Evolved
 
 * Metallurgy 4 Reforged - Adds many materials and even has "Tinkers Construct" support. Make alloys and other types of earth metal concoctions. 
 
+* MineMenu - Mine Menu - Radial menu, 'nuff said.
+
 * Mixinbootstrap - A library mod.
 
 * Moving Elevators - Moving Elevators adds real Elevators to Minecraft!
@@ -391,6 +404,11 @@ Pixelmon Evolved
 * Scaling Feast - A simple, balanced way to increase your maximum hunger. 
 
 * Scaling Health - Allows the player to increase their maximum health and adds additional difficulty to enemies.
+
+* Schematica - Display ghost structures and export parts of your world, all inside Minecraft!
+
+* Schematics - A simple schematic item to help in survival construction.
+
 
 * Security Craft - SecurityCraft adds loads of different ways to protect your house with!
 
