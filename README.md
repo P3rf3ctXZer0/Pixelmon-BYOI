@@ -1,16 +1,17 @@
+
 # Actively Supporting Development
 
 ![Bisect Hosting](https://media.discordapp.net/attachments/701616152266407998/779578734087766016/vertical_dark_text.png?width=1442&height=469 "Bisect Hosting")
 
-* We are now proudly supported by "Bisect Hosting" If you are looking for a stable and easy to understand server host with prompt and effective support for all your problems please consider giving them a try as I have been using them off and on since 2017 and I have to say compared to the competitors; they are bar none one of the best hosts out there. Lag-less and dedicated to performance their servers are fast and reliable. 
+* We are now proudly supported by "Bisect Hosting" If you are looking for a stable and easy to understand server host with prompt and effective support for all your server related problems. Please consider giving them a try as I have been using them off and on since 2017 and I have to say compared to the competitors; they are bar none one of the best hosts out there. Lag-less and dedicated to performance their servers are fast and reliable. 
 
-* Use promo code "Zer0G" for a chunk off the service fee. Also, it helps support this and other future projects I release. ~ xWingedTenacityx#7693
+* Use promo code **"Zer0G"** for 25% off the service fee for the first month. I recommend most people use a "4GB" package but you can also buy more or less if you need it. Also, it helps support this and other future projects I release. ~ xWingedTenacityx#7693
 
 # Alternative links
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - https://dl.dropboxusercontent.com/s/4kgo15i3949hr69/Pixelmon%20Evolved-MC-40.0.0.zip?dl=1
+* MultiMC Alternative Download Link - https://www.dropbox.com/s/eeutdllj79l7bi3/Pixelmon%20Evolved-MC-42.0.0.zip?dl=1
 
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
 
@@ -18,25 +19,37 @@
 
 # Basic Information
 
-* Current Version - 40.0.0
+* Current Version - 42.0.0
 
-* Date - 11/20/2020 at 6:25pm
+* Date - 11/26/2020 at 9:39pm
 
 * Forge Version - forge-14.23.5.2854
 
-* Required Java Args -&gt; -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true &lt;-
+![Required Java Arguments](https://dl.dropboxusercontent.com/s/t4dmdud377upe2k/Required%20Java%20Args-v01.png?dl=1 "Required Java Arguments")
+
+High End PCs
+
+-> -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true <- 
+
+or 
+
+Low to Mid End PCs
+
+-> -XX:+AggressiveOpts -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSConcurrentMTEnabled -XX:ParallelGCThreads=4 -Dsun.rmi.dgc.server.gcInterval=1800000 -XX:+UnlockExperimentalVMOptions -XX:+ExplicitGCInvokesConcurrent -XX:MaxGCPauseMillis=50 -XX:+AlwaysPreTouch -XX:+UseStringDeduplication -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:-OmitStackTraceInFastThrow -XX:+OptimizeStringConcat -XX:+UseAdaptiveGCBoundary -XX:NewRatio=3 -Dfml.readTimeout=90 -XX:+UseFastAccessorMethods <-
 
 * Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
 * Memory Minimum Allocation - 6GB (8GB)
 
-* Notes - This is the first update since being supported by "Bisect Hosting" I am trying to make building easier and updating mods that had updates. Also, I am adding a rent a server link.
+* Notes - Updating some mods and re-syncing configs. Fixes a crash related to schematics
 
 # Client Only Mods
 
+* Memory Cleaner Mod - https://www.curseforge.com/minecraft/mc-mods/memory-cleaner-mod/files/3123520 (Untested Advanced Usage best on low-mid end pcs)
+
 * Optifine - http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar (Mixed results)
 
-* Performant - https://www.curseforge.com/minecraft/mc-mods/performant (Mixed results)
+* Performant - https://www.curseforge.com/minecraft/mc-mods/performant/files/2939052 (Mixed results)
 
 # Google Doc Version
 
@@ -274,6 +287,9 @@ Pixelmon Evolved
 * JustEnoughIDs - A mod which removes all ID limits from 1.12.2 similar to the 1.13+ update.
 
 * Just Enough Harvestcraft - Adds "JEI" "Harvest Craft" support.
+
+* JEI Integration - JEI Integration, the successor to NEI Integration by Tonius, is an addon for Just Enough Items (JEI) for Minecraft 1.10 and above. The mod provides JEI recipe handlers for other mods where otherwise absent. In addition to additional recipe handlers, it adds configurable tooltips which can provide insightful information for pack developers and tech-savvy players.
+
 
 * Just Enough Items - A very polished and efficient recipe browser.
 
