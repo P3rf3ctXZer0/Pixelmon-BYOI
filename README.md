@@ -1,3 +1,4 @@
+![Main Logo](https://dl.dropboxusercontent.com/s/sh58u98bkwsoax6/pixelmonevolved.png?dl=1 "Main Logo")
 
 # Actively Supporting Development
 
@@ -11,7 +12,7 @@
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - https://www.dropbox.com/s/eeutdllj79l7bi3/Pixelmon%20Evolved-MC-42.0.0.zip?dl=1
+* MultiMC Alternative Download Link - 
 
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
 
@@ -19,21 +20,19 @@
 
 # Basic Information
 
-* Current Version - 42.0.0
+* Current Version - 43.0.0
 
-* Date - 11/26/2020 at 9:39pm
-
-* Forge Version - forge-14.23.5.2854
+* Date - 11/27/2020 at 5:38pm
 
 ![Required Java Arguments](https://dl.dropboxusercontent.com/s/t4dmdud377upe2k/Required%20Java%20Args-v01.png?dl=1 "Required Java Arguments")
 
-High End PCs
+# High End PCs
 
 -> -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true <- 
 
 or 
 
-Low to Mid End PCs
+# Low to Mid End PCs
 
 -> -XX:+AggressiveOpts -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSConcurrentMTEnabled -XX:ParallelGCThreads=4 -Dsun.rmi.dgc.server.gcInterval=1800000 -XX:+UnlockExperimentalVMOptions -XX:+ExplicitGCInvokesConcurrent -XX:MaxGCPauseMillis=50 -XX:+AlwaysPreTouch -XX:+UseStringDeduplication -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:-OmitStackTraceInFastThrow -XX:+OptimizeStringConcat -XX:+UseAdaptiveGCBoundary -XX:NewRatio=3 -Dfml.readTimeout=90 -XX:+UseFastAccessorMethods <-
 
@@ -41,11 +40,11 @@ Low to Mid End PCs
 
 * Memory Minimum Allocation - 6GB (8GB)
 
-* Notes - Updating some mods and re-syncing configs. Fixes a crash related to schematics
+* Notes - Emergency Patch no.1 trying to resurrect our old world.
 
 # Client Only Mods
 
-* Memory Cleaner Mod - https://www.curseforge.com/minecraft/mc-mods/memory-cleaner-mod/files/3123520 (Untested Advanced Usage best on low-mid end pcs)
+* Memory Cleaner Mod - https://www.curseforge.com/minecraft/mc-mods/memory-cleaner-mod/files/3123520 (Works well makes loading times 10x longer but gameplay 10x smoother. A bit text spammy. Advanced Usage best on low-mid end pcs)
 
 * Optifine - http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar (Mixed results)
 
