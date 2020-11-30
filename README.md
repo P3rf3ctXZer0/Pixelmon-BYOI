@@ -1,5 +1,3 @@
-![Main Logo](https://dl.dropboxusercontent.com/s/sh58u98bkwsoax6/pixelmonevolved.png?dl=1 "Main Logo")
-
 # Actively Supporting Development
 
 ![Bisect Hosting](https://media.discordapp.net/attachments/701616152266407998/779578734087766016/vertical_dark_text.png?width=1442&height=469 "Bisect Hosting")
@@ -12,7 +10,7 @@
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - 
+* MultiMC Alternative Download Link - https://www.dropbox.com/s/g3q87lrx9uiqrnm/Pixelmon%20Evolved-MC-44.0.0.zip?dl=1
 
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
 
@@ -20,9 +18,9 @@
 
 # Basic Information
 
-* Current Version - 43.0.0
+* Current Version - 44.0.0
 
-* Date - 11/27/2020 at 5:38pm
+* Date - 11/29/2020 at 12:26am
 
 ![Required Java Arguments](https://dl.dropboxusercontent.com/s/t4dmdud377upe2k/Required%20Java%20Args-v01.png?dl=1 "Required Java Arguments")
 
@@ -40,13 +38,13 @@ or
 
 * Memory Minimum Allocation - 6GB (8GB)
 
-* Notes - Emergency Patch no.1 trying to resurrect our old world.
+* Notes - Fixed issues when working with refined storage. Broke the custom menu system. I will need to redo it at some point. I am too lazy right now.
 
 # Client Only Mods
 
-* Memory Cleaner Mod - https://www.curseforge.com/minecraft/mc-mods/memory-cleaner-mod/files/3123520 (Works well makes loading times 10x longer but gameplay 10x smoother. A bit text spammy. Advanced Usage best on low-mid end pcs)
+* Memory Cleaner Mod - https://www.curseforge.com/minecraft/mc-mods/memory-cleaner-mod/files/3123520 (Works well makes loading times 10x longer but gameplay 10x smoother. A bit text spammy. Advanced Usage best on low-mid end pcs. Do not mix with "Optifine")
 
-* Optifine - http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar (Mixed results)
+* Optifine - http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar (Mixed results - High end PCs seems to benefit the most.)
 
 * Performant - https://www.curseforge.com/minecraft/mc-mods/performant/files/2939052 (Mixed results)
 
@@ -60,17 +58,7 @@ Welcome to the amazing world of Pixelmon. I made this pack with a desire to have
 
 # FAQ
 
-* Alternative Links - Due to the many bugs with "Curse launcher (twitch launcher for now)" and the fact that my user base has preference I will also be hosting "technic launcher" versions and "MultiMC" versions. As a more permanent solution.
-
-* Better Records - In order to etch a record you first have to make it a "Direct" dropbox link. Do this by converting it with this tool. http://www.isgoodstuff.com/dropbox/
-
-* Building Gadgets - The ultimate building tool. (Does not copy fluid.) (Does not destroy land claimed areas or overwrite existing blocks.)
-
-* Little Tiles - When using "Little Tiles" disable the "JEI" overlay or the preview will not work. I know there are lighting issues in the preview render but I am unsure how to solve them right now. Do not try to use the "Slice" option because it is very buggy. Check this link out for more details on how to use this mod. " https://github.com/CreativeMD/LittleTiles/wiki "
-
-* Pixelmon - If at any point your playing and your battle refuses to end simply do "/endbattle" as a command.
-
-* Refined Storage - https://youtu.be/DihKGPOXgAs 
+https://docs.google.com/document/d/12_TKiy8tpTfCeHjS7xUxTvufTfm6QkcyFAONl9IhAi0/edit?usp=sharing
 
 * Server Information - Twitch seems to randomly fail at uploading my server.dat so here is the exact information.
 
@@ -167,6 +155,11 @@ Pixelmon Evolved
 
 * Classic Combat - Restores combat as it was before the 1.9 Combat.
 
+* Colossal Chests - For when regular chests are too small.
+
+* Cyclops Core - Library mod for EvilCraft, Integrated Dynamics and others.
+
+
 * Compact Void Miners - Collects ores and fluids from the void.
 
 * Connected Textures Mod - A library mod.
@@ -224,6 +217,9 @@ Pixelmon Evolved
 * Ender IO Endergy - Adds additional energy support for "Ender IO".
 
 * End: Reborn - The End is just the beginning...
+
+* Exposer - Have you ever wanted, to use Refined Storage together with another storage system? Now it is possible! Exposer adds one block to the game: The Exposer. You can connect an exposer to you Refined Storage system and it will expose the entire contents of the RS system as an inventory. You can attach a Storage Bus from Applied Energistics or similar equivalents from other mods to the exposer to access you Refined Storage system. 
+
 
 * Extra Bit Manipulation - Adds new ways to manipulate your chisels and bits.
 
@@ -332,6 +328,8 @@ Pixelmon Evolved
 
 * Mixinbootstrap - A library mod.
 
+* More Refined Storage - Just more storage for Refined Storage.
+
 * Moving Elevators - Moving Elevators adds real Elevators to Minecraft!
 
 * Mystical Adaptations - Seed Extractors, Insanium Armor, Insanium Tools & more.
@@ -347,6 +345,8 @@ Pixelmon Evolved
 * Natura - A biome mod.
 
 * NetherEx - NetherEx is a Nether overhaul mod for Minecraft. It adds in new biomes, structures, mobs, and more!
+
+* Nevoka Core - This mod is the core of all my mods. On its own it does not much.
 
 * Nomadic Tents - Custom little pocket dimensions. Take your base with you.
 
@@ -407,6 +407,10 @@ Pixelmon Evolved
 * RandomTweaks - A bunch of miscellaneous, vanilla-compatible tweaks for Minecraft, such as player head drops, sound system reloading and a time of day overlay.
 
 * ReAuth - Allows the user to re-login without having to restart their game.
+
+* Reborn Core - A library mod for team reborn mods.
+
+* Refined Storage Large Patterns - The dream of automation realized. Again.
 
 * Refined Storage - An elegant solution to your hoarding problem.
 
