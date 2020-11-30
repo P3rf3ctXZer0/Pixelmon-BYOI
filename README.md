@@ -10,7 +10,7 @@
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - https://www.dropbox.com/s/g3q87lrx9uiqrnm/Pixelmon%20Evolved-MC-44.0.0.zip?dl=1
+* MultiMC Alternative Download Link - https://www.dropbox.com/s/3vrz3q986v66iy2/Pixelmon%20Evolved-MC-45.0.0.zip?dl=1
 
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
 
@@ -18,9 +18,9 @@
 
 # Basic Information
 
-* Current Version - 44.0.0
+* Current Version - 45.0.0
 
-* Date - 11/29/2020 at 12:26am
+* Date - 11/30/2020 at 8:08am
 
 ![Required Java Arguments](https://dl.dropboxusercontent.com/s/t4dmdud377upe2k/Required%20Java%20Args-v01.png?dl=1 "Required Java Arguments")
 
@@ -38,7 +38,7 @@ or
 
 * Memory Minimum Allocation - 6GB (8GB)
 
-* Notes - Fixed issues when working with refined storage. Broke the custom menu system. I will need to redo it at some point. I am too lazy right now.
+* Notes - Added a way to insult people committing suicide to avoid hunger ;) Added something to assure less mixin crashes.
 
 # Client Only Mods
 
@@ -47,6 +47,10 @@ or
 * Optifine - http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar (Mixed results - High end PCs seems to benefit the most.)
 
 * Performant - https://www.curseforge.com/minecraft/mc-mods/performant/files/2939052 (Mixed results)
+
+# FAQ
+
+https://docs.google.com/document/d/12_TKiy8tpTfCeHjS7xUxTvufTfm6QkcyFAONl9IhAi0/edit?usp=sharing
 
 # Google Doc Version
 
@@ -59,11 +63,6 @@ Welcome to the amazing world of Pixelmon. I made this pack with a desire to have
 # FAQ
 
 https://docs.google.com/document/d/12_TKiy8tpTfCeHjS7xUxTvufTfm6QkcyFAONl9IhAi0/edit?usp=sharing
-
-* Server Information - Twitch seems to randomly fail at uploading my server.dat so here is the exact information.
-
-Pixelmon Evolved
-73.185.156.214:25550
 
 * Structurize - It seems glitchy and half complete but functional. I recommend using "Building Gadgets Copy Paste Tool" to copy structures but if you build a "Minecolony" you should be able to use this item to make custom structures. Make sure that you have a working left and right mouse button because they didn't allow for custom hotkeys and you will see first hand it's a bit glitchy. 
 
@@ -185,6 +184,9 @@ Pixelmon Evolved
 * Cucumber - A library mod.
 
 # -D-
+
+* DeathQuotes / Death Quotes - Displays funny quotes when you die in Minecraft.
+
 
 * Dregora - Adds a new OTG dimension which is heavily story driven.
 
@@ -325,6 +327,8 @@ Pixelmon Evolved
 * Metallurgy 4 Reforged - Adds many materials and even has "Tinkers Construct" support. Make alloys and other types of earth metal concoctions. 
 
 * MineMenu - Mine Menu - Radial menu, 'nuff said.
+
+* Mixin 0.7-0.8 Compatibility - Allows mods that use 0.7 or 0.8 mixin to be compatible with each other.
 
 * Mixinbootstrap - A library mod.
 
