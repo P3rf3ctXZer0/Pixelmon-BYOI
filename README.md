@@ -10,17 +10,17 @@
 
 * Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
 
-* MultiMC Alternative Download Link - https://www.dropbox.com/s/3vrz3q986v66iy2/Pixelmon%20Evolved-MC-45.0.0.zip?dl=1
+* MultiMC Alternative Download Link - https://www.dropbox.com/s/6s9cu7nl75e3uy2/Pixelmon%20Evolved-MC-46.0.0.zip?dl=1
 
 * Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
 
-* Twitch Version Link - https://www.curseforge.com/minecraft/modpacks/pixelmon-evolved
+* Twitch Version Link - https://www.curseforge.com/minecraft/modpacks/pixelmon-evolved (Currently Not Working)
 
 # Basic Information
 
-* Current Version - 45.0.0
+* Current Version - 46.0.0
 
-* Date - 11/30/2020 at 8:08am
+* Date - 12/1/2020 at 5:36
 
 ![Required Java Arguments](https://dl.dropboxusercontent.com/s/t4dmdud377upe2k/Required%20Java%20Args-v01.png?dl=1 "Required Java Arguments")
 
@@ -38,7 +38,7 @@ or
 
 * Memory Minimum Allocation - 6GB (8GB)
 
-* Notes - Added a way to insult people committing suicide to avoid hunger ;) Added something to assure less mixin crashes.
+* Notes - Fixing a packet issue attempt no'1
 
 # Client Only Mods
 
@@ -139,6 +139,8 @@ https://docs.google.com/document/d/12_TKiy8tpTfCeHjS7xUxTvufTfm6QkcyFAONl9IhAi0/
 * Biome Bundle O Plenty - Biomes O Plenty integration for "Biome Bundle"
 
 * Biome's O Plenty - A mod which adds neat biomes and livens up the world.
+
+* Bigger Packets Please - When too big a packet is received from the server, client disconnect with an error message.
 
 * Botania - An innovative natural magic themed tech mod.
 
