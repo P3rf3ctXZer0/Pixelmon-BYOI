@@ -1,3 +1,11 @@
+# Pixelmon BYOI formerly "Pixelmon Evolved"
+
+![enter image description here](https://dl.dropboxusercontent.com/s/wlcyunf9jyk1ntd/Pixelmon_BYOI.png?dl=1)
+
+# Join Discord 
+
+* The House of Cards Redux - https://discord.gg/FCkcxZgRwZ
+
 # Actively Supporting Development
 
 ![Bisect Hosting](https://media.discordapp.net/attachments/701616152266407998/779578734087766016/vertical_dark_text.png?width=1442&height=469 "Bisect Hosting")
@@ -6,496 +14,205 @@
 
 * Use promo code **"Zer0G"** for 25% off the service fee for the first month. I recommend most people use a "4GB" package but you can also buy more or less if you need it. Also, it helps support this and other future projects I release. ~ xWingedTenacityx#7693
 
-# Alternative links
-
-* Legend - CC = Curse Client - TL = Technic Launcher - MC = MultiMC Client
-
-* MultiMC Alternative Download Link - https://www.dropbox.com/s/6s9cu7nl75e3uy2/Pixelmon%20Evolved-MC-46.0.0.zip?dl=1
-
-* Technic Launcher Link - https://www.technicpack.net/modpack/pixelmon-evolved-zer0-edition.1763938
-
-* Twitch Version Link - https://www.curseforge.com/minecraft/modpacks/pixelmon-evolved (Currently Not Working)
-
 # Basic Information
 
-* Current Version - 46.0.0
+* -!Important!- I will no longer be up-keeping Technic Launcher.
 
-* Date - 12/1/2020 at 5:36
+* Current Version - 53.0.1
+
+* Date - 12/15/2020 at 4:10pm
+
+# Launchers
+
+* Curseforge + Overwolf - https://curseforge.overwolf.com/
+
+* Gorilla Dev Launcher - https://gdevs.io/#downloadContainer
+
+* Koala Launcher - https://www.koalalauncher.com/
+
+* MultiMC - https://multimc.org/
+
+# Link
+
+* https://www.dropbox.com/s/z69rmfxgxmjdcja/Pixelmon%20BYOI-53.0.1.zip?dl=1
 
 ![Required Java Arguments](https://dl.dropboxusercontent.com/s/t4dmdud377upe2k/Required%20Java%20Args-v01.png?dl=1 "Required Java Arguments")
 
-# High End PCs
+# Personal Recommendations
 
--> -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true <- 
+-> -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m <- 
 
 or 
 
-# Low to Mid End PCs
+# Alternative Recommendations
 
 -> -XX:+AggressiveOpts -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSConcurrentMTEnabled -XX:ParallelGCThreads=4 -Dsun.rmi.dgc.server.gcInterval=1800000 -XX:+UnlockExperimentalVMOptions -XX:+ExplicitGCInvokesConcurrent -XX:MaxGCPauseMillis=50 -XX:+AlwaysPreTouch -XX:+UseStringDeduplication -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:-OmitStackTraceInFastThrow -XX:+OptimizeStringConcat -XX:+UseAdaptiveGCBoundary -XX:NewRatio=3 -Dfml.readTimeout=90 -XX:+UseFastAccessorMethods <-
 
 * Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
-* Memory Minimum Allocation - 6GB (8GB)
-
-* Notes - Fixing a packet issue attempt no'1
-
-# Client Only Mods
-
-* Memory Cleaner Mod - https://www.curseforge.com/minecraft/mc-mods/memory-cleaner-mod/files/3123520 (Works well makes loading times 10x longer but gameplay 10x smoother. A bit text spammy. Advanced Usage best on low-mid end pcs. Do not mix with "Optifine")
-
-* Optifine - http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar (Mixed results - High end PCs seems to benefit the most.)
-
-* Performant - https://www.curseforge.com/minecraft/mc-mods/performant/files/2939052 (Mixed results)
-
-# FAQ
-
-https://docs.google.com/document/d/12_TKiy8tpTfCeHjS7xUxTvufTfm6QkcyFAONl9IhAi0/edit?usp=sharing
-
-# Google Doc Version
-
-https://docs.google.com/document/d/1Jj-bbqtSwb7NCRUi2fGuZGqOsrNiI3ivYEu2MC6BLQw/edit?usp=sharing
-
-# Introduction
-
-Welcome to the amazing world of Pixelmon. I made this pack with a desire to have the ultimate crossover. I really enjoy the source material but I hate having 19 games to play when I wish to catch them all. Thanks to the power of coding now we can on a voxel engine. Also simply catching monsters can get kind of boring, I figured fill the game with life ya know? Building is the real press for this pack and I think once you see everything you got to work with you will most likely feel that way too.
-
-# FAQ
-
-https://docs.google.com/document/d/12_TKiy8tpTfCeHjS7xUxTvufTfm6QkcyFAONl9IhAi0/edit?usp=sharing
-
-* Structurize - It seems glitchy and half complete but functional. I recommend using "Building Gadgets Copy Paste Tool" to copy structures but if you build a "Minecolony" you should be able to use this item to make custom structures. Make sure that you have a working left and right mouse button because they didn't allow for custom hotkeys and you will see first hand it's a bit glitchy. 
-
-* Twitch Issues - Twitch Launcher is for some reason exporting my pack with forestry even though it is not intended to be in my pack. Also some users have reported server information issues. If you suddenly get forestry or any mod not listed please delete it. Not doing so will make the pack crash or have other issues I cannot predict.
-
-# Features 
-
-* Build-centric - If you build it they will come. Legit a ton of ways to do basically anything. At this point we are one of the de facto building packs by the sheer level of options available.
-
-* Defenses - With the edition of  Electric Fences, Turrets and more you can make a truly amazing fortress.
-
-* Exploration - There is so much to explore! I have added all available stable dimensions mods that allow for so much exploration.
-
-* Gear-centric - There is an insane amount of gear. Borderlands got nothing on us :D 
-
-* Land claim - We have land claim thanks to "FTBUtilities" I disabled the land claim for "Minecolonies" because the version we are using causes things to break with it activated.
-
-
-* Online Multiplayer - The complete experience.
-
-* Pocket Monsters - You can battle legit monsters which chill in your pocket when not in battle.
-
-* PVP Ready - With land claim courtesy of "FTBUtilities" and defenses courtesy of "Open Modular Turrets" and "Security Craft" you can truly pvp.
-
-* Questing - Coming to a modpack near you (some day) - "Not sure how to best implement it."
-
-* Survival-centric - Leaderboards, Spice of Life and more encourage survival. You will feel infinite pain if you lose your gear.
-
-* Tech-centric - Build amazing little machines using "Ender IO, Mekanism and Botania."
-
-![Modlist](https://dl.dropboxusercontent.com/s/n914zf194fhkxdt/Modlistv2.png?dl=1 "Modlist")
-
-# -A-
-
-* Abyssal Craft - Adds the dark gods and their dimensions.
-
-* Abyssal Craft Integration - Adds integration for mods.
-
-* A Little Extra Tiles - Adds even more options to little tiles.
-
-* Antighost - Rechecks block states around the player and resyncs with server if blocks don't match.
-
-* Applecore - A library mod.
-
-* Apricorn Tree Farm - A Pixelmon addon with trees and tech support.
-
-* ArchitectureCraft TridentMC Version - Adds the ability to turn any whole block into many different shapes including smooth ramps.
-
-* Armory Expansion - Adds additional material support for "Constructs Armory".
-
-* Architect - Large scale building made fun again. Allows for easy construction.
-
-* AttributeFix - Remove all limitations.
-
-* Atum - A dimension of sand and artifacts.
-
-* AutoRegLib - A library mod.
-
-# -B-
-
-* Baubles - An addon module and API for Thaumcraft.
-
-
-* Better Advancements - Makes the advancement screen bigger.
-
-* Better Diving - Makes it so the swimming feels proper.
-
-* Better Records - Better Records adds the ability to listen to your favorite songs, as music discs in Minecraft! Listen to internet radio streams, or etch a record in-game with the URL to an mp3, wav, or ogg file and it will download and play for you and all your friends! Use lasers and strobe lights to add streams of color and flashes of light! Increase the radius by connecting speakers!
-
-* Bio Library - A library mod.
-
-* Biome Bundle - A world generation preset for OTG.
-
-* Biome Bundle O Plenty - Biomes O Plenty integration for "Biome Bundle"
-
-* Biome's O Plenty - A mod which adds neat biomes and livens up the world.
-
-* Bigger Packets Please - When too big a packet is received from the server, client disconnect with an error message.
-
-* Botania - An innovative natural magic themed tech mod.
-
-* Builder's Bag - Builder's Bag provides a useful bag which greatly improves quality of life while building.
-
-* Building Gadgets - A collection of gadgets that make building large structs a bit easier.
-
-# -C-
-
-* Chisel - Adds the ability to decorate blocks.
-
-* Chisels and Bits - Adds a limitless way to use blocks.
-
-* Classic Combat - Restores combat as it was before the 1.9 Combat.
-
-* Colossal Chests - For when regular chests are too small.
-
-* Cyclops Core - Library mod for EvilCraft, Integrated Dynamics and others.
-
-
-* Compact Void Miners - Collects ores and fluids from the void.
-
-* Connected Textures Mod - A library mod.
-
-* Constructs Armory - Adds armor support to "Tinkers Construct".
-
-* Controlled Burn - Gives me more control over how fire works.
-
-* Controlling - Adds an easy way to manage keybindings.
-
-* Corail Tombstones - A better gravestone mod.
-
-* Cosmetic Armor Reworked - Adds the ability to wear armor cosmetically.
-
-* Crafttweaker2 - Allows me to change and add recipes.
-
-* Champions - Creates elite mobs of different rarities, with enhanced stats and extra abilities.
-
-* CraftPresence - Completely Customize the way others see you play in Discord!
-
-* Creative Core - A library mod.
-
-* Cucumber - A library mod.
-
-# -D-
-
-* DeathQuotes / Death Quotes - Displays funny quotes when you die in Minecraft.
-
-
-* Dregora - Adds a new OTG dimension which is heavily story driven.
-
-* Dynamic Trees -  A growing tree is a multi-block structure of rooty soil, branches, and leaves blocks that has many advances over the Vanilla Minecraft tree structures. The formation of the tree starts with a seed. This seed is either planted by hand much like a Vanilla sapling or the seed has a chance of planting itself if left on the ground in a suitable location.  The tree then grows from a sapling, slowly increasing its size over time, into a full sized tree. The tree can then be chopped down at its base and all of the wood claimed at once.
-
-* Dynamic Trees Atum 2 - Adds "Dynamic Tree Support" to "Atum 2".
-
-* Dynamic Trees Biomes O Plenty Compat - Adds "Dynamic Tree Support" to "Biomes O Plenty".
-
-* Dynamic Trees - Natura - Compatibility mod between Dynamic Trees and Natura.
-
-* Dynamic Trees Pam's Trees - Adds "Dynamic Tree Support" to "Pam's Harvest Craft".
-
-* Dynamic Trees Plants - Adds "Dynamic Tree Support" to "Plants". 
-
-* Dynamic Trees Quark - Adds "Dynamic Tree Support" to "Plants".
-
-* Dynamic Trees Tinkers Construct - Adds "Dynamic Tree Support" to "Tinkers Construct".
-
-* Dynamic Trees - Forestry - Compatibility Mod between Dynamic trees and Forestry.
-
-* Dynamic Trees - The Twilight Forest - Compatibility Mod between Dynamic trees and Twilight Forest.
-
-# -E-
-
-* Ender Core - A library mod.
-
-* Ender IO AIO - A pack for "Ender IO" content that is all in one.
-
-* Ender IO Endergy - Adds additional energy support for "Ender IO".
-
-* End: Reborn - The End is just the beginning...
-
-* Exposer - Have you ever wanted, to use Refined Storage together with another storage system? Now it is possible! Exposer adds one block to the game: The Exposer. You can connect an exposer to you Refined Storage system and it will expose the entire contents of the RS system as an inventory. You can attach a Storage Bus from Applied Energistics or similar equivalents from other mods to the exposer to access you Refined Storage system. 
-
-
-* Extra Bit Manipulation - Adds new ways to manipulate your chisels and bits.
-
-# -F-
-
-* Fairy Lights - This mod adds decorative string lights.
-
-* FancyMenu - Allows me to add and make a custom main menu and other various menus.
-
-* FantasicLib - A library mod.
-
-* Fast Furnace - A performance boost for furnaces.
-
-* Faster Ladder Climb - Allows for faster up and down.
-
-
-* Fast Leaf Decay - Removes floating leaves.
-
-* Fast Workbench - A performance boost for crafting tables.
-
-* Flat Colored Blocks - Adds all the colors of the rainbow.
-
-* FoamFix - A mod that optimizes many of the game's shortcomings. 
-
-
-* Forestry - Bringing bees, butterflies and more trees. as well as eco-friendly energy production and mail to Minecraft.
-
-* Forgelin - A library mod.
-
-* FTB Library - A library mod.
-
-* FTB Money - A mod for adding shops and additional quest rewards.
-
-* FTB Quests - A mod for making quests.
-
-* FTB Utilities - A land claim, home set, teleport and team mod.
-
-# -G-
-
-* Gauges and Switches - The Mod adds devices to output or measure redstone power in different style variants. Complete documentation, feature details, credits, and community references is on the github project page here.
-
-* Gotta Go Fast - Removes rubberbanding.
-
-# -H-
-
-* Hwyla - Shows users various information about what they are looking at.
-
-# -I-
-
-* Item Filters - A library mod.
-
-* Inventory HUD+ - Adds your main inventory to your HUD. And few other features.
-
-* ItemPhysics Full - A physics mod for items and drops.
-
-# -J-
-
-* JourneyMap - A minimap mod with waypoints, fullscreen map and death beacons.
-
-* JustEnoughIDs - A mod which removes all ID limits from 1.12.2 similar to the 1.13+ update.
-
-* Just Enough Harvestcraft - Adds "JEI" "Harvest Craft" support.
-
-* JEI Integration - JEI Integration, the successor to NEI Integration by Tonius, is an addon for Just Enough Items (JEI) for Minecraft 1.10 and above. The mod provides JEI recipe handlers for other mods where otherwise absent. In addition to additional recipe handlers, it adds configurable tooltips which can provide insightful information for pack developers and tech-savvy players.
-
-
-* Just Enough Items - A very polished and efficient recipe browser.
-
-* Just Enough Resources (JER) - A JEI addon that adds mob drops, ore gen, ..
-
-# -K-
-
-* Konkrete - A library mod.
-
-# -L-
-
-* Large Fluid Tank - Adds massive fluid tank for fluid storage.
-
-* LibraryEx - A library mod.
-
-* Lime Lib - A library mod.
-
-* Little Tiles - Adds a limitless way to use blocks.
-
-* LunatriusCore - A library mod.
-
-# -M-
-
-* Mantle - A library mod.
-
-* Macaw's Bridges - A simple mod that adds a lot of bridges!
-
-* Macaw's Roofs - Build roofs with actual roofs instead of stairs!
-
-* More Buckets - Adds a bunch of useful buckets for different materials!
-
-* Max Potion ID Extender - Lifts the potion ID limit from 255 to basically unlimited
-
-* Mekanism - High-tech machinery, powerful energy generation, fancy gadgets and more. Now on Curse!
-
-* Mekanism Generators - Advanced energy generation for Mekanism.
-
-* Metallurgy 4 Reforged - Adds many materials and even has "Tinkers Construct" support. Make alloys and other types of earth metal concoctions. 
-
-* MineMenu - Mine Menu - Radial menu, 'nuff said.
-
-* Mixin 0.7-0.8 Compatibility - Allows mods that use 0.7 or 0.8 mixin to be compatible with each other.
-
-* Mixinbootstrap - A library mod.
-
-* More Refined Storage - Just more storage for Refined Storage.
-
-* Moving Elevators - Moving Elevators adds real Elevators to Minecraft!
-
-* Mystical Adaptations - Seed Extractors, Insanium Armor, Insanium Tools & more.
-
-* Mystical Creations - Create custom Mystical Agriculture seeds.
-
-* Mystical Agradditions - Adds tier 6 crops, Tinkers' support, Paxels and more to Mystical Agriculture!
-
-* Mystical Agriculture - Grow your own materials as crops and have endless renewable resources.
-
-# -N-
-
-* Natura - A biome mod.
-
-* NetherEx - NetherEx is a Nether overhaul mod for Minecraft. It adds in new biomes, structures, mobs, and more!
-
-* Nevoka Core - This mod is the core of all my mods. On its own it does not much.
-
-* Nomadic Tents - Custom little pocket dimensions. Take your base with you.
-
-# -O-
-
-* OMLib - A library mod.
-
-* Open Modular Passive Defense - Adds in passive defense.
-
-* Open Modular Turrets - A mod that adds tons of modular turrets, upgrades, add-ons, and general manly security measures!
-
-* OnlinePictureFrame - Display pictures from the internet as pictures ingame.
-
-* Open Terrain Generator - A world generation and biome controller. It allows very distinct world generation and control.
-
-* Ore Excavation - A lightweight veinminer alternative.
-
-* OTG Dungeons - Adds endless dungeon dimension.
-
-* OTG Flatlands - Adds a super flat dimension.
-
-* OTG Skylands - Adds a sky dimension.
-
-* OTG The Void - Adds a void dimension.
-
-# -P-
-
-* Pam's Harvestcraft - Adds a ton of crops, food, plants and trees. 
-
-* Patchouli - Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers.
-
-* Performant - A huge performance boosting mod. It changes and optimizes many pieces of code.
-
-* Phosphor - Target optimization for lighting and shadow code. 
-
-* Pixelmon - A huge mod which adds lots of Pocket Monsters to the game with many forms and is turn based when engaged in battle with other pocket monsters.
-
-* Pixelmon Information for Pixelmon Reforged - A mod that adds Tooltips, JEI and Waila Additions for Pixelmon Reforged.
-
-* Placebo - A library mod.
-
-* Plants - Adds a ton of plants and pretty things to look at.
-
-* Prefabs - Adds starting Houses.
-
-* Project Storage - An infinitely scaling inventory size.
-
-# -Q-
-
-* Quark - A heavily modular mod that allows users many different features. They range from client side tweaks to physical world changes. Adds a sleep voting system.
-
-# -R-
-
-* Random Bone Meal Flowers - Randomizes the flowers spawned by bonemeal, allowing all (modded) types to spawn everywhere.
-
-* RandomPatches - A bunch of miscellaneous patches for Minecraft, including configurable read/login timeouts, player speed limits, End portal tweaks and other fixes and improvements.
-
-* RandomTweaks - A bunch of miscellaneous, vanilla-compatible tweaks for Minecraft, such as player head drops, sound system reloading and a time of day overlay.
-
-* ReAuth - Allows the user to re-login without having to restart their game.
-
-* Reborn Core - A library mod for team reborn mods.
-
-* Refined Storage Large Patterns - The dream of automation realized. Again.
-
-* Refined Storage - An elegant solution to your hoarding problem.
-
-* Refined Storage Addons - An addon mod for Refined Storage.
-
-* Refined Storage: Requestify - Keep your refined storage stocked with crafteable items.
-
-# -S-
-
-* Scaling Feast - A simple, balanced way to increase your maximum hunger. 
-
-* Scaling Health - Allows the player to increase their maximum health and adds additional difficulty to enemies.
-
-* Schematica - Display ghost structures and export parts of your world, all inside Minecraft!
-
-* Schematics - A simple schematic item to help in survival construction.
-
-
-* Security Craft - SecurityCraft adds loads of different ways to protect your house with!
-
-* Silent Lib - A library mod.
-
-* The Spice of Life - Encourages dietary variety through diminishing returns.
-
-* Spice of Life: Carrot Edition - A mod based around food that rewards the player instead of punishing them for discovering new foods!
-
-
-* Stackie - Gather items close together.
-
-* Stellar Fluid Conduits - Adds very powerful conduits.
-
-* stimmedcow : NoMoreRecipeConflict - Switch between conflicting craft recipes. 
-
-* Storage Tech - Add other disks for Refined Storage.
-
-* Stygian End: Biome Expansion - New biomes for the end dimension.
-
-# -T-
-
-* TellMe - Allows me to dump and list basically anything so I can fix things.
-
-* The Betweenlands - The Betweenlands dimension is a dark and mysterious realm where strange, monstrous creatures roam amongst the remnants of long lost civilisations that have succumbed to the spread of decay. As dangerous as it is beautiful, there is much to explore and discover. The player must learn of their surroundings and keep their wits about them or else perish. The mod is in active development, and many exciting new features are in the works. These will include new dungeons, bosses and a race of NPCs.
-
-* Tinkers Construct - Allows modular tools that can be given cool traits.
-
-* Tinkers' Complement - Addon for Tinkers Construct to bring compatibility and features that don't fit in the base mod.
-
-* Tinker I/O - An addon to enhance Tinker's Construct Smeltery system.
-
-* Tinker's JEI - Adds "JEI" recipe support for "Tinkers Construct" and mods that add things to it.
-
-* Tinkers' Compendium (Tinkers' Defense) - An ever growing expansion of Tinkers' Construction.
-
-* Tinkers Reforged - Adds additional "Tinkers Construct" Gear.
-
-* Tinker's Tool Leveling - Allows tools made with "Tinkers Construct" to level up over usage and time.
-
-* Toast Control - Disable annoying pop ups especially in the beginning.
-
-* Tweakers Construct - Tweak various values within tinkers' construct.
-
-* Twilight Forest - A realm basked in mystery and eerie twilight, you will overpower terrifying creatures and secure the adventure of a lifetime; in the Twilight Forest.
-
-# -U-
-
-* Unlimited Chisel Works - Adds additional supported materials.
-
-# -W-
-
-* Waila Harvestability - Shows players if their tool can safely break the block they are looking at.
-
-* Walljump - Allows for wall climbing and double jump.
-
-* Wawla - Shows players even more information about what they are looking at.
-
-* Waystones - Teleport back to activated waystones. For Survival, Adventure or Servers.
-
-# -Y-
-
-* YUNGs Better Mineshafts - Overhauls mineshafts.
-
-* YUNGs Better Caves - Overhauls caves.
+* Memory Minimum Allocation - 8GB (10GB)
+
+* Notes - Rebranding.
+
+# Modlist
+
+  [___MixinCompat-0.8___].jar             
+  [1.12.2] SecurityCraft v1.8.20.2.jar    
+  AbyssalCraft Integration-1.12.2-1.11.2.jar
+  AbyssalCraft-1.12.2-1.10.3.jar          
+  AmbientSounds_v3.0.16_mc1.12.2.jar      
+  antighost-1.12-forge14.21.1.2387-1.1.1.jar
+  AppleCore-mc1.12.2-3.4.0.jar            
+  ApriTree-2.4.0.jar                      
+  Architect-MC1.12-1.2.0.6.jar            
+  architecturecraft-1.12-3.98.jar         
+  armoryexpansion-2.0.0-alpha.jar         
+  AttributeFix-1.12.2-1.0.10.jar          
+  AutoRegLib-1.3-32.jar                   
+  Baubles-1.12-1.5.2.jar                  
+  BetterAdvancements-1.12.2-0.1.0.77.jar  
+  bettercaves-1.12.2-2.0.4.jar            
+  BetterDiving-1.12.2-1.5.8.jar           
+  BetterMineshaftsForge-1.12.2-2.1.1.jar  
+  BetterPingDisplay-1.12.2-1.0.jar        
+  biolib-1.1.1.jar                        
+  Biome_Bundle_O_Plenty-1.12.2_v1.0.jar   
+  Biome_Bundle-1.12.2-v6.1.jar            
+  BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar
+  Botania r1.10-363.jar                   
+  BuildingGadgets-2.8.4.jar               
+  champions-1.12.2-1.0.11.9.jar           
+  ChestTransporter-1.12.2-2.8.8.jar       
+  Chisel-MC1.12.2-1.0.2.45.jar            
+  chiselsandbits-14.33.jar                
+  CompactVoidMiners-R1.11.jar             
+  conarm-1.12.2-1.2.5.9.jar               
+  Controlled Burn-1.12.2.022.jar          
+  Controlling-3.0.10.jar                  
+  CosmeticArmorReworked-1.12.2-v5a.jar    
+  CraftingTweaks_1.12.2-8.1.9.jar         
+  CraftPresence-Forge-1.12.2-Release-1.7.5.jar
+  CraftTweaker2-1.12-4.1.20.605.jar       
+  CreativeCore_v1.10.34_mc1.12.2.jar      
+  CTM-MC1.12.2-1.0.2.31.jar               
+  Cucumber-1.12.2-1.1.3.jar               
+  DeathQuotes-1.2.0-mc1.12-forge.jar      
+  Dregora-1.12.2-v1.66.2.jar              
+  DynamicTrees-1.12.2-0.9.21.jar          
+  DynamicTreesBOP-1.12.2-1.4.4.jar        
+  DynamicTreesNatura-1.12.2-1.1.6.jar     
+  DynamicTreesPamTrees-1.12.2-1.0.4.jar   
+  DynamicTreesQuark-1.12.2-1.0.6.jar      
+  DynamicTreesTinkersConstruct-1.12.2-1.2.6.jar
+  EnderCore-1.12.2-0.5.76.jar             
+  EnderIO-1.12.2-5.2.66.jar               
+  EnderIO-endergy-1.12.2-5.2.66.jar       
+  EndReborn [0.3.9].jar                   
+  exposer-1.2.jar                         
+  ExtraBitManipulation-1.12.2-3.4.1.jar   
+  fairylights-2.2.0-1.12.2.jar            
+  fancymenu_1.6.0.1_MC_1.12-1.12.2.jar    
+  FantasticLib-1.12.2.044.jar             
+  FasterLadderClimbing-1.12-0.1-146.jar   
+  FastFurnace-1.12.2-1.3.1.jar            
+  FastLeafDecay-v14.jar                   
+  FastWorkbench-1.12.2-1.7.3.jar          
+  flatcoloredblocks-mc1.12-6.8.jar        
+  foamfix-0.10.11-1.12.2.jar              
+  Forgelin-1.8.4.jar                      
+  FTBLib-5.4.7.2.jar                      
+  FTBMoney-1.2.0.47.jar                   
+  FTBQuests-1202.9.0.14.jar               
+  FTBUtilities-5.4.1.130.jar              
+  gottagofast-1.1.jar                     
+  Hwyla-1.8.26-B41_1.12.2.jar             
+  InventoryHud_1.12.2.forge-3.1.9.jar     
+  ironchest-1.12.2-7.0.72.847.jar         
+  ItemFilters-1.0.4.2.jar                 
+  ItemPhysic_Full_1.4.34_mc1.12.2.jar     
+  jei_1.12.2-4.16.1.302.jar               
+  jeiintegration_1.12.2-1.6.0.jar         
+  journeymap-1.12.2-5.7.1.jar             
+  just-enough-harvestcraft-1.12.2-1.7.2.jar
+  JustEnoughIDs-1.0.3-55.jar              
+  JustEnoughResources-1.12.2-0.9.2.60.jar 
+  konkrete_1.1.0.1_MC_1.12-1.12.2.jar     
+  lanserverproperties-1.0.jar             
+  LargeFluidTank-12.5.2.jar               
+  LibraryEx-1.12.2-1.2.1.jar              
+  limelib-1.12.2-1.7.12.jar               
+  LittleTiles_v1.5.0-pre199_73_mc1.12.2.jar
+  LunatriusCore-1.12.2-1.2.0.42-universal.jar
+  Mantle-1.12-1.3.3.55.jar                
+  maxpotidext-1.0.3.jar                   
+  Mekanism-1.12.2-9.8.3.390.jar           
+  MekanismGenerators-1.12.2-9.8.3.390.jar 
+  memorycleaner-1.2.jar                   
+  Metallurgy-4-Reforged-1.2.1.jar         
+  MixinBootstrap-1.0.5.jar                
+  MoreBuckets-1.12.2-1.0.4.jar            
+  morerefinedstorage-1.1.9.jar            
+  MouseTweaks-2.10-mc1.12.2.jar           
+  MysticalAdaptations-1.12.2-1.8.3.jar    
+  MysticalAgradditions-1.12.2-1.3.2.jar   
+  MysticalAgriculture-1.12.2-1.7.5.jar    
+  MysticalCreations-1.12.2-1.4.jar        
+  natura-1.12.2-4.3.2.69.jar              
+  NetherEx-1.12.2-2.2.2.jar               
+  nevoka-core-1.0.2.jar                   
+  NomadicTents-1.12.2-9.5.2.jar           
+  OnlinePicFrame_v1.5.0-pre1_mc1.12.2.jar 
+  OpenTerrainGenerator-1.12.2-v9.0.jar    
+  OreExcavation-1.4.150.jar               
+  OTG-Skylands-1.12.2-v5.jar              
+  Pam's HarvestCraft 1.12.2zg.jar         
+  Patchouli-1.0-22.jar                    
+  phosphor-forge-mc1.12.2-0.2.7-universal.jar
+  PickleTweaks-1.12.2-2.1.3.jar           
+  Pixelmon-1.12.2-8.1.2-universal.jar     
+  PixelmonInformation-1.12.2-8.0.0-0.3.7.jar
+  Placebo-1.12.2-1.6.0.jar                
+  Plants-1.12.2-2.10.7.jar                
+  prefab-1.3.0.26.jar                     
+  projectstorage-1.12.2-1.3.jar           
+  Quark-r1.6-179.jar                      
+  randompatches-1.12.2-1.22.1.10.jar      
+  randomtweaks-1.12.2-2.8.2.1.jar         
+  rbmf_1.12-1.0.jar                       
+  RebornCore-1.12.2-3.19.4.529-universal.jar
+  RebornStorage-1.12.2-3.3.4.1.jar        
+  refinedstorage-1.6.16.jar               
+  refinedstorageaddons-0.4.5.jar          
+  refinedstoragerequestify-1.12.2-1.0.2-3.jar
+  rsgauges-1.12.2-1.2.5.jar               
+  scalingfeast-1.6.1.jar                  
+  ScalingHealth-1.12.2-1.3.42+147.jar     
+  Schematics-1.12.2.12.jar                
+  SilentLib-1.12.2-3.0.14+168.jar         
+  SmoothFont-mc1.12.2-2.1.2.jar           
+  solcarrot-1.12.2-1.8.4.jar              
+  SpiceOfLife-mc1.12-1.3.12.jar           
+  Stackie-1.12.2-1.6.0.48-universal.jar   
+  stellarfluidconduit-1.12.2-1.0.3.jar    
+  stg-1.12.2-1.2.3.jar                    
+  StorageTech R6.0.jar                    
+  stygian-1.0.4.jar                       
+  supersoundmuffler-revived_1.12.2_1.0.2.10.jar
+  TConstruct-1.12.2-2.13.0.183.jar        
+  tellme-1.12.2-0.7.0-dev.20200919.184303.jar
+  TheBetweenlands-3.7.1-universal.jar     
+  thutcore-1.12.2-5.21.0.jar              
+  thuttech-1.12.2-6.1.6.jar               
+  tinker_io-1.12.2-rw2.8.3.jar            
+  tinkers_reforged-1.4.1.jar              
+  TinkersComplement-1.12.2-0.4.3.jar      
+  tinkersdefense-1.4.2.38.jar             
+  tinkersjei-1.2.jar                      
+  TinkerToolLeveling-1.12.2-1.1.0.jar     
+  Toast Control-1.12.2-1.8.1.jar          
+  tombstone-4.0.1-1.12.2.jar              
+  tweakersconstruct-1.12.2-1.5.5.jar      
+  UnlimitedChiselWorks-0.3.4.jar          
+  WailaHarvestability-mc1.12-1.1.12.jar   
+  walljump-1.12.2-1.3.2.jar               
+  Wawla-1.12.2-2.6.275.jar                
