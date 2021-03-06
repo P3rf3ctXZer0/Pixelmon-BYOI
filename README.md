@@ -6,7 +6,31 @@
 
 # Join Discord 
 
-* The House of Cards Redux - https://discord.gg/FCkcxZgRwZ
+* The House of Cards Redux - https://discord.gg/FCkcxZgRwZ or pm Zer0Necrosis#7693
+
+# Features
+
+* No Server Spawn - I am not making nor have a desire to make a spawn. I made a box. Its good enough.
+
+* Adventuring - There is so much to see including huge changes to the Nether and End. The Abyssal allows the player to go somewhere spo0ky. The between lands allow for new kinds of exploration. (Not a typo) 
+
+* Automation - There are many ways of automatic crafting, farming, resource gathering and even construction. Thanks to EnderIO, Mystical Agriculture, and Refined Storage.  
+
+* Building - This mod pack features many ways to build thanks to the mods Architect, ArchitectureCraft, Building Gadgets, Chisel, Chisel Unlimited, Chisel and Bits, Extra Bit Manipulation, Flat Colored Blocks, Little Frames, Little Tiles and Schematics. Anything you can think of and have the resources to make is possible. Save buildings and crafts and even export them. 
+
+* Ever Scaling - Everything in the world scales. Enemies, Health, Hunger, Survival I would add TAN, but I do have a heart :D
+
+* Get Good - Enemies can spawn as blights and champions. You need good gear and scale your health and level your tools. No explosions. Get insulted on death.
+
+* Land Claim and QoL - Huds options and landclaims.
+
+* Pixelmon-Hybrid - This is a Pixelmon server but not like you are used to. Pixelmon is here but unlike most servers it is not the sole source of gameplay.
+
+* Survival - This is a survival server. If you die your loot gets placed in a gravestone. Eating the same thing punishes you. Enemies scale. Good luck.
+
+* Technical - If you like multi block machines and different ways to make things with pipes and more we got you covered. I am not very good at this stuff, but I know it works.
+
+* Unprofessional - Not here to help or waste my time teaching you how to play. If you get on the server, and you skip steps good luck. I will answer some things as long as I have not written it down in the "How to Play" Manual.
 
 # Actively Supporting Development
 
@@ -20,9 +44,9 @@
 
 * -!Important!- I will no longer be up-keeping Technic Launcher. You must allow long file paths in Windows. You can use this registry modification or do your own research https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-260-characters/ if you hate research grab and extract this zip https://www.howtogeek.com/wp-content/uploads/2016/08/Long-Path-Names-Hacks.zip just run the add the registry key.
 
-* Current Version - 65.0.1
+* Current Version - 65.0.2
 
-* Date - 3/6/2021 at 2:47am
+* Date - 3/6/2021 at 4:20am
 
 # Launchers
 
@@ -38,11 +62,11 @@
 
 # Curseforge
 
-* https://www.dropbox.com/s/5pqk13qvs81ifz7/Pixelmon%20BYOI-65.0.1.zip?dl=0
+* https://www.dropbox.com/s/vjmthfg471p340p/Pixelmon%20BYOI-65.0.2.zip?dl=0
 
 # AIO Zipfile
 
-* https://www.dropbox.com/s/5pqk13qvs81ifz7/Pixelmon%20BYOI-65.0.1.zip?dl=0
+* https://www.dropbox.com/s/vjmthfg471p340p/Pixelmon%20BYOI-65.0.2.zip?dl=0
 
 ![Required Java Arguments](https://dl.dropboxusercontent.com/s/t4dmdud377upe2k/Required%20Java%20Args-v01.png?dl=1 "Required Java Arguments")
 
@@ -50,17 +74,18 @@
 
 -> -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Xms512m <- 
 
-or 
-
-# Alternative Recommendations
-
--> -XX:+AggressiveOpts -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSConcurrentMTEnabled -XX:ParallelGCThreads=4 -Dsun.rmi.dgc.server.gcInterval=1800000 -XX:+UnlockExperimentalVMOptions -XX:+ExplicitGCInvokesConcurrent -XX:MaxGCPauseMillis=50 -XX:+AlwaysPreTouch -XX:+UseStringDeduplication -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:-OmitStackTraceInFastThrow -XX:+OptimizeStringConcat -XX:+UseAdaptiveGCBoundary -XX:NewRatio=3 -Dfml.readTimeout=90 -XX:+UseFastAccessorMethods <-
-
 * Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
 * Memory Minimum Allocation - 6.5GB (8.5GB)
 
-* Notes - Added Sound extender to fix sounds blotting out. Fixed Java args further and removed Ambience 3.
+* Notes - Added a Button. It's in the escape menu.
 
 # Modlist
 
+![Notepad2_UwDjGHI2N2.png](https://i.imgur.com/IyYdH16.png)
+
+![](https://i.imgur.com/lsZ60sa.png)
+
+![](https://i.imgur.com/IBQrJkY.png)
+
+![](https://i.imgur.com/Kfx0btS.png)
