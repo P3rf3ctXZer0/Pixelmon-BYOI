@@ -6,7 +6,7 @@
 
 # Join Discord 
 
-* The House of Cards Redux - https://discord.gg/FCkcxZgRwZ or pm Zer0Necrosis#7693
+* The Kool Kids Clan - https://discord.gg/jdjF9HWx or pm Zer0TheRadioDemon#7693
 
 # Features
 
@@ -16,7 +16,7 @@
 
 * Automation - There are many ways of automatic crafting, farming, resource gathering and even construction. Thanks to EnderIO, Mystical Agriculture, and Refined Storage.  
 
-* Building - This mod pack features many ways to build thanks to the mods Architect, ArchitectureCraft, Building Gadgets, Chisel, Chisel Unlimited, Chisel and Bits, Extra Bit Manipulation, Flat Colored Blocks, Little Frames, Little Tiles. Anything you can think of and have the resources to make is possible. Save buildings and crafts and even export them. 
+* Building - This mod pack features many ways to build thanks to the mods Architect, ArchitectureCraft, Building Gadgets, Chisel, Chisel Unlimited, Chisel and Bits, Extra Bit Manipulation, Flat Colored Blocks, Little Frames, Little Tiles and Schematics. Anything you can think of and have the resources to make is possible. Save buildings and crafts and even export them. 
 
 * Ever Scaling - Everything in the world scales. Enemies, Health, Hunger, Survival I would add TAN, but I do have a heart :D
 
@@ -44,9 +44,9 @@
 
 * -!Important!- I will no longer be up-keeping Technic Launcher. You must allow long file paths in Windows. You can use this registry modification or do your own research https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-260-characters/ if you hate research grab and extract this zip https://www.howtogeek.com/wp-content/uploads/2016/08/Long-Path-Names-Hacks.zip just run the add the registry key.
 
-* Current Version - 66.0.0
+* Current Version - 69.0.2
 
-* Date - 3/24/2021 at 6:22pm
+* Date - 3/25/2021 at 12:58pm
 
 # Launchers
 
@@ -62,11 +62,11 @@
 
 # Curseforge
 
-* https://www.dropbox.com/s/0dkrwb34wocn8ax/Pixelmon%20BYOI-66.0.0.zip?dl=0
+* https://www.dropbox.com/s/bx3mdlv77r308gc/Pixelmon%20BYOI-69.0.2.zip?dl=0
 
-# AIO Zipfile
+# Optional Client Only Mods
 
-* https://www.dropbox.com/s/0dkrwb34wocn8ax/Pixelmon%20BYOI-66.0.0.zip?dl=0
+* https://www.dropbox.com/sh/87nl38ddb3evi7t/AAD_pq342GWSBosyqLLilpwGa?dl=0
 
 ![Required Java Arguments](https://dl.dropboxusercontent.com/s/t4dmdud377upe2k/Required%20Java%20Args-v01.png?dl=1 "Required Java Arguments")
 
@@ -82,12 +82,13 @@ or
 
 * Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
-* Memory Minimum Allocation - 6.5GB (8.5GB)
+* Memory Minimum Allocation - 6.0GB (8.0GB)
 
-* Notes - Just updated removed a bunch of stuff. Added cooking and farming for blockheads.
+* Notes - Fixed the fact that the pack didn't match 
 
 # Modlist
 
+  [___MixinCompat-0.8___].jar                 
   [1.12.2] SecurityCraft v1.8.21.jar          
   AbyssalCraft Integration-1.12.2-1.11.2.jar  
   AbyssalCraft-1.12.2-1.10.3.jar              
@@ -110,10 +111,12 @@ or
   BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar
   Botania r1.10-363.jar                       
   BuildingGadgets-2.8.4.jar                   
+  cc-tweaked-1.12.2-1.89.2.jar                
   champions-1.12.2-1.0.11.10.jar              
   ChestTransporter-1.12.2-2.8.8.jar           
   Chisel-MC1.12.2-1.0.2.45.jar                
   chiselsandbits-14.33.jar                    
+  Chocolate_Quest_Repoured-1.12.2-2.3.1B.jar  
   CompactVoidMiners-R1.11.jar                 
   conarm-1.12.2-1.2.5.10.jar                  
   Controlled Burn-1.12.2.022.jar              
@@ -150,10 +153,12 @@ or
   FTBLib-5.4.7.2.jar                          
   FTBMoney-1.2.0.47.jar                       
   FTBQuests-1202.9.0.15.jar                   
+  ftb-ultimine-1202.3.5.jar                   
   FTBUtilities-5.4.1.131.jar                  
   gottagofast-1.1.jar                         
   Growable Apricorns-2.0.0.jar                
   GunpowderLib-1.12.2-1.1.jar                 
+  hole_filler_mod-1.2.4.jar                   
   Hwyla-1.8.26-B41_1.12.2.jar                 
   InventoryHud_1.12.2.forge-3.2.1.jar         
   ironchest-1.12.2-7.0.72.847.jar             
@@ -172,6 +177,7 @@ or
   limelib-1.12.2-1.7.12.jar                   
   LittleFrames_v1.0.5_mc1.12.2.jar            
   LittleTiles_v1.5.0-pre327_mc1.12.2.jar      
+  llibrary-1.7.20-1.12.2.jar                  
   LunatriusCore-1.12.2-1.2.0.42-universal.jar 
   Mantle-1.12-1.3.3.55.jar                    
   maxpotidext-1.0.3.jar                       
@@ -180,6 +186,7 @@ or
   memorycleaner-1.4.jar                       
   Metallurgy-4-Reforged-1.2.5.jar             
   MixinBootstrap-1.0.5.jar                    
+  morebeautifulplates-1.12.2-1.1.4.jar        
   MoreBuckets-1.12.2-1.0.4.jar                
   morerefinedstorage-1.1.10.jar               
   MouseTweaks-2.10-mc1.12.2.jar               
@@ -193,7 +200,6 @@ or
   NetherEx-1.12.2-2.2.4.jar                   
   nevoka-core-1.0.2.jar                       
   NomadicTents-1.12.2-9.5.2.jar               
-  OreExcavation-1.4.150.jar                   
   Pam's HarvestCraft 1.12.2zg.jar             
   Patchouli-1.0-23.6.jar                      
   performant-1.12.2-1.10.jar                  
@@ -218,6 +224,7 @@ or
   scalingfeast-1.7.0.jar                      
   ScalingHealth-1.12.2-1.3.42+147.jar         
   SilentLib-1.12.2-3.0.14+168.jar             
+  SimplyJetpacks2-1.12.2-2.2.19.0.jar         
   SmoothFont-mc1.12.2-2.1.2.jar               
   solcarrot-1.12.2-1.8.4.jar                  
   SoundLimitExtends-1.12.2-1.0.jar            
@@ -230,7 +237,8 @@ or
   supersoundmuffler-revived_1.12.2_1.0.2.10.jar
   TConstruct-1.12.2-2.13.0.183.jar            
   tellme-1.12.2-0.7.0-dev.20200919.184303.jar 
-  TheBetweenlands-3.7.2-universal.jar         
+  TheBetweenlands-3.7.3-universal.jar         
+  theoneprobe-1.12-1.4.28.jar                 
   tinker_io-1.12.2-rw2.8.3.jar                
   tinkers_reforged-1.5.1.jar                  
   TinkersComplement-1.12.2-0.4.3.jar          
@@ -239,6 +247,7 @@ or
   TinkerToolLeveling-1.12.2-1.1.0.jar         
   Toast Control-1.12.2-1.8.1.jar              
   tombstone-4.1.2-1.12.2.jar                  
+  TorchBandolier-1.12.2-0.1.1-4.jar           
   tweakersconstruct-1.12.2-1.5.6.jar          
   u_team_core-1.12.2-2.2.5.147.jar            
   UnlimitedChiselWorks-0.3.4.jar              
