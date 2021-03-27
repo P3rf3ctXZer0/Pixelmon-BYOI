@@ -44,9 +44,9 @@
 
 * -!Important!- I will no longer be up-keeping Technic Launcher. You must allow long file paths in Windows. You can use this registry modification or do your own research https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-260-characters/ if you hate research grab and extract this zip https://www.howtogeek.com/wp-content/uploads/2016/08/Long-Path-Names-Hacks.zip just run the add the registry key.
 
-* Current Version - 70.0.3
+* Current Version - 71.0.0c
 
-* Date - 3/26/2021 at 7:24pm
+* Date - 3/26/2021 at 9:31pm
 
 # Launchers
 
@@ -62,7 +62,7 @@
 
 # Curseforge
 
-* https://www.dropbox.com/s/wudt0kydvhlqxl8/Pixelmon%20BYOI-70.0.3.zip?dl=0
+* https://www.dropbox.com/s/wqy3cwsn2y7i7ro/Pixelmon%20BYOI-71.0.0c.zip?dl=0
 
 # Optional Client Only Mods
 
@@ -88,7 +88,7 @@ or
 
 * Memory Minimum Allocation - 6.0GB (8.0GB)
 
-* Notes - Added Erebus and Lost Cities Immersive engineer and more.
+* Notes - An actual nightmare was had thanks to me not paying attention :(
 
 # Modlist
 
@@ -170,7 +170,6 @@ or
   GunpowderLib-1.12.2-1.1.jar                 
   hole_filler_mod-1.2.4.jar                   
   Hwyla-1.8.26-B41_1.12.2.jar                 
-  ImmersiveEngineering-0.12-98.jar            
   InventoryHud_1.12.2.forge-3.2.1.jar         
   ironchest-1.12.2-7.0.72.847.jar             
   ItemFilters-1.0.4.2.jar                     
@@ -274,3 +273,5 @@ or
   walljump-1.12.2-1.3.2.jar                   
   Wawla-1.12.2-2.6.275.jar                    
   Xtones-1.2.2.jar                            
+
+
