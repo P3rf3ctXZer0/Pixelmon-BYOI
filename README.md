@@ -1,3 +1,23 @@
+![Required Java Arguments](https://dl.dropboxusercontent.com/s/t4dmdud377upe2k/Required%20Java%20Args-v01.png?dl=1 "Required Java Arguments")
+
+# Personal Recommendations
+
+-> -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Xms512m <- 
+
+or 
+
+# Alternative Recommendations
+
+-> -XX:+AggressiveOpts -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSConcurrentMTEnabled -XX:ParallelGCThreads=4 -Dsun.rmi.dgc.server.gcInterval=1800000 -XX:+UnlockExperimentalVMOptions -XX:+ExplicitGCInvokesConcurrent -XX:MaxGCPauseMillis=50 -XX:+AlwaysPreTouch -XX:+UseStringDeduplication -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:-OmitStackTraceInFastThrow -XX:+OptimizeStringConcat -XX:+UseAdaptiveGCBoundary -XX:NewRatio=3 -Dfml.readTimeout=90 -XX:+UseFastAccessorMethods <-
+
+# Java args for more than 7.5Gb of Ram Allocated
+
+-> -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+UseLargePagesInMetaspace -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dfml.queryResult=confirm -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true <-
+
+* Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
+
+* Minimum Memory Allocation - 6.0GB (8.0GB)
+
 # Pixelmon BYOI formerly "Pixelmon Evolved"
 
 * By the one and only P3rf3ctXZer0, Zer0Necrosis aka Zer0Necrosis#7693 aka Zer0TheRadioDemon#7693
@@ -44,9 +64,17 @@
 
 * -!Important!- I will no longer be up-keeping Technic Launcher. You must allow long file paths in Windows. You can use this registry modification or do your own research https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-260-characters/ if you hate research grab and extract this zip https://www.howtogeek.com/wp-content/uploads/2016/08/Long-Path-Names-Hacks.zip just run the add the registry key.
 
-* Current Version - 71.0.0c
+* Current Version -
 
-* Date - 3/26/2021 at 9:31pm
+* Date - 3/29/2021 at 8:37pm
+
+# Raw Pack Copy (Use if curse is slow or fails to update)
+
+* https://www.dropbox.com/s/z0yme8rb7lqp3nl/Pixelmon%20BYOI-73.0.3c.zip?dl=0
+
+# Launcher Overview
+
+* ATLauncher, Curseforge, Gorilla Dev Launcher, Mojang and Multimc = https://youtu.be/tEY5tMqhoOY
 
 # Launchers
 
@@ -58,37 +86,11 @@
 
 * MultiMC - https://multimc.org/
 
-# Link
-
-# Curseforge
-
-* https://www.dropbox.com/s/wqy3cwsn2y7i7ro/Pixelmon%20BYOI-71.0.0c.zip?dl=0
-
-# Optional Client Only Mods
+# Optional Client Only Mods (Includes Gameshark for Pixelmon)
 
 * https://www.dropbox.com/sh/87nl38ddb3evi7t/AAD_pq342GWSBosyqLLilpwGa?dl=0
 
-![Required Java Arguments](https://dl.dropboxusercontent.com/s/t4dmdud377upe2k/Required%20Java%20Args-v01.png?dl=1 "Required Java Arguments")
-
-# Personal Recommendations
-
--> -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Xms512m <- 
-
-or 
-
-# Alternative Recommendations
-
--> -XX:+AggressiveOpts -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSConcurrentMTEnabled -XX:ParallelGCThreads=4 -Dsun.rmi.dgc.server.gcInterval=1800000 -XX:+UnlockExperimentalVMOptions -XX:+ExplicitGCInvokesConcurrent -XX:MaxGCPauseMillis=50 -XX:+AlwaysPreTouch -XX:+UseStringDeduplication -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:-OmitStackTraceInFastThrow -XX:+OptimizeStringConcat -XX:+UseAdaptiveGCBoundary -XX:NewRatio=3 -Dfml.readTimeout=90 -XX:+UseFastAccessorMethods <-
-
-# Java args for more than 7.5Gb of Ram Allocated
-
--> -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+UseLargePagesInMetaspace -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dfml.queryResult=confirm -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true <-
-
-* Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
-
-* Memory Minimum Allocation - 6.0GB (8.0GB)
-
-* Notes - An actual nightmare was had thanks to me not paying attention :(
+* Notes - Added Reauth to help with authentication issues.
 
 # Modlist
 
@@ -96,6 +98,8 @@ or
   [1.12.2] SecurityCraft v1.8.21.jar          
   AbyssalCraft Integration-1.12.2-1.11.2.jar  
   AbyssalCraft-1.12.2-1.10.3.jar              
+  AIImprovements-1.12-0.0.1b3.jar             
+  AIReducer-1.12.2-0.2.1.jar                  
   antighost-1.12-forge14.21.1.2387-1.1.1.jar  
   AppleCore-mc1.12.2-3.4.0.jar                
   AppleSkin-mc1.12-1.0.14.jar                 
@@ -144,6 +148,7 @@ or
   EndReborn [0.3.9].jar                       
   engineersdecor-1.12.2-1.1.2.jar             
   engineerstools-1.12.2-1.0.5.jar             
+  EntityCulling-1.12.2-4.1.1.jar              
   Erebus-1.0.32.jar                           
   Exchangers-1.12.2-2.10.1.jar                
   exposer-1.2.jar                             
@@ -181,6 +186,7 @@ or
   JustEnoughIDs-1.0.3-55.jar                  
   JustEnoughResources-1.12.2-0.9.2.60.jar     
   konkrete_1.1.3_MC_1.12-1.12.2.jar           
+  LagGoggles-1.12.2-5.8-132.jar               
   lanserverproperties-1.0.jar                 
   LargeFluidTank-12.5.2.jar                   
   LibraryEx-1.12.2-1.2.1.jar                  
@@ -188,6 +194,7 @@ or
   LittleFrames_v1.0.5_mc1.12.2.jar            
   LittleTiles_v1.5.0-pre327_mc1.12.2.jar      
   llibrary-1.7.20-1.12.2.jar                  
+  loliasm-1.1.jar                             
   lostcities-1.12-2.0.22.jar                  
   LunatriusCore-1.12.2-1.2.0.42-universal.jar 
   Mantle-1.12-1.3.3.55.jar                    
@@ -231,6 +238,7 @@ or
   randompatches-1.12.2-1.22.1.10.jar          
   randomtweaks-1.12.2-2.8.3.1.jar             
   rbmf_1.12-1.0.jar                           
+  reauth-3.6.0.jar                            
   RebornCore-1.12.2-3.19.4.529-universal.jar  
   RebornStorage-1.12.2-3.3.4.1.jar            
   refinedstorage-1.6.16.jar                   
@@ -257,6 +265,7 @@ or
   tellme-1.12.2-0.7.0-dev.20200919.184303.jar 
   TheBetweenlands-3.7.3-universal.jar         
   theoneprobe-1.12-1.4.28.jar                 
+  TickCentral-3.2.jar                         
   tinker_io-1.12.2-rw2.8.3.jar                
   tinkers_reforged-1.5.1.jar                  
   TinkersComplement-1.12.2-0.4.3.jar          
@@ -273,5 +282,3 @@ or
   walljump-1.12.2-1.3.2.jar                   
   Wawla-1.12.2-2.6.275.jar                    
   Xtones-1.2.2.jar                            
-
-
