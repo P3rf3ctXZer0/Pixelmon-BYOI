@@ -1,3 +1,5 @@
+# MY PACKS ARE NOT SP OPTIMIZED PLEASE JOIN SERVER FOR BEST EXPERIENCE EVEN DURING TESTING IN SP I LAG.
+
 ![Required Java Arguments](https://dl.dropboxusercontent.com/s/t4dmdud377upe2k/Required%20Java%20Args-v01.png?dl=1 "Required Java Arguments")
 
 # Personal Recommendations
@@ -16,81 +18,83 @@ or
 
 * Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
-* Minimum Memory Allocation - 6.0GB (8.0GB)
++ Minimum Memory Allocation - 6.0GB (8.0GB)
++ Minimum CPU 2 Cores 4 Threads - 3.2GHZ
++ Minimum GPU NVIDIA 750 GTX - Equivalent or Higher.
 
 # Pixelmon BYOI formerly "Pixelmon Evolved"
 
-* By the one and only P3rf3ctXZer0, Zer0Necrosis aka Zer0Necrosis#7693 aka Zer0TheRadioDemon#7693
++ By the one and only P3rf3ctXZer0, Zer0Necrosis aka Zer0Necrosis#7693 aka Zer0TheRadioDemon#7693
 
 ![enter image description here](https://dl.dropboxusercontent.com/s/wlcyunf9jyk1ntd/Pixelmon_BYOI.png?dl=1)
 
 # Join Discord 
 
-* The Kool Kids Clan - https://discord.gg/jdjF9HWx or pm Zer0TheRadioDemon#7693
++ The Kool Kids Clan - https://discord.gg/jdjF9HWx or pm Zer0TheRadioDemon#7693
 
 # Features
 
-* No Server Spawn - I am not making nor have a desire to make a spawn. I made a box. Its good enough.
++ No Server Spawn - I am not making nor have a desire to make a spawn. I made a box. Its good enough.
 
-* Adventuring - There is so much to see including huge changes to the Nether and End. The Abyssal allows the player to go somewhere spo0ky. The between lands allow for new kinds of exploration. (Not a typo) 
++ Adventuring - There is so much to see including huge changes to the Nether and End. The Abyssal allows the player to go somewhere spo0ky. The between lands allow for new kinds of exploration. (Not a typo) 
 
-* Automation - There are many ways of automatic crafting, farming, resource gathering and even construction. Thanks to EnderIO, Mystical Agriculture, and Refined Storage.  
++ Automation - There are many ways of automatic crafting, farming, resource gathering and even construction. Thanks to EnderIO, Mystical Agriculture, and Refined Storage.  
 
-* Building - This mod pack features many ways to build thanks to the mods Architect, ArchitectureCraft, Building Gadgets, Chisel, Chisel Unlimited, Chisel and Bits, Extra Bit Manipulation, Flat Colored Blocks, Little Frames, Little Tiles and Schematics. Anything you can think of and have the resources to make is possible. Save buildings and crafts and even export them. 
++ Building - This mod pack features many ways to build thanks to the mods Architect, ArchitectureCraft, Building Gadgets, Chisel, Chisel Unlimited, Chisel and Bits, Extra Bit Manipulation, Flat Colored Blocks, Little Frames, Little Tiles and Schematics. Anything you can think of and have the resources to make is possible. Save buildings and crafts and even export them. 
 
-* Ever Scaling - Everything in the world scales. Enemies, Health, Hunger, Survival I would add TAN, but I do have a heart :D
++ Ever Scaling - Everything in the world scales. Enemies, Health, Hunger, Survival I would add TAN, but I do have a heart :D
 
-* Get Good - Enemies can spawn as blights and champions. You need good gear and scale your health and level your tools. No explosions. Get insulted on death.
++ Get Good - Enemies can spawn as blights and champions. You need good gear and scale your health and level your tools. No explosions. Get insulted on death.
 
-* Land Claim and QoL - Huds options and landclaims.
++ Land Claim and QoL - Huds options and landclaims.
 
-* Pixelmon-Hybrid - This is a Pixelmon server but not like you are used to. Pixelmon is here but unlike most servers it is not the sole source of gameplay.
++ Pixelmon-Hybrid - This is a Pixelmon server but not like you are used to. Pixelmon is here but unlike most servers it is not the sole source of gameplay.
 
-* Survival - This is a survival server. If you die your loot gets placed in a gravestone. Eating the same thing punishes you. Enemies scale. Good luck.
++ Survival - This is a survival server. If you die your loot gets placed in a gravestone. Eating the same thing punishes you. Enemies scale. Good luck.
 
-* Technical - If you like multi block machines and different ways to make things with pipes and more we got you covered. I am not very good at this stuff, but I know it works.
++ Technical - If you like multi block machines and different ways to make things with pipes and more we got you covered. I am not very good at this stuff, but I know it works.
 
-* Unprofessional - Not here to help or waste my time teaching you how to play. If you get on the server, and you skip steps good luck. I will answer some things as long as I have not written it down in the "How to Play" Manual.
++ Unprofessional - Not here to help or waste my time teaching you how to play. If you get on the server, and you skip steps good luck. I will answer some things as long as I have not written it down in the "How to Play" Manual.
 
 # Actively Supporting Development
 
 ![Bisect Hosting](https://media.discordapp.net/attachments/701616152266407998/779578734087766016/vertical_dark_text.png?width=1442&height=469 "Bisect Hosting")
 
-* We are now proudly supported by "Bisect Hosting" If you are looking for a stable and easy to understand server host with prompt and effective support for all your server related problems. Please consider giving them a try as I have been using them off and on since 2017 and I have to say compared to the competitors; they are bar none one of the best hosts out there. Lag-less and dedicated to performance their servers are fast and reliable. 
++ We are now proudly supported by "Bisect Hosting" If you are looking for a stable and easy to understand server host with prompt and effective support for all your server related problems. Please consider giving them a try as I have been using them off and on since 2017 and I have to say compared to the competitors; they are bar none one of the best hosts out there. Lag-less and dedicated to performance their servers are fast and reliable. 
 
-* Use promo code **"Zer0G"** for 25% off the service fee for the first month. I recommend most people use a "4GB" package but you can also buy more or less if you need it. Also, it helps support this and other future projects I release. ~ xWingedTenacityx#7693
++ Use promo code **"Zer0G"** for 25% off the service fee for the first month. I recommend most people use a "4GB" package but you can also buy more or less if you need it. Also, it helps support this and other future projects I release. ~ xWingedTenacityx#7693
 
 # Basic Information
 
-* -!Important!- I will no longer be up-keeping Technic Launcher. You must allow long file paths in Windows. You can use this registry modification or do your own research https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-260-characters/ if you hate research grab and extract this zip https://www.howtogeek.com/wp-content/uploads/2016/08/Long-Path-Names-Hacks.zip just run the add the registry key.
++ -!Important!- I will no longer be up-keeping Technic Launcher. You must allow long file paths in Windows. You can use this registry modification or do your own research https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-260-characters/ if you hate research grab and extract this zip https://www.howtogeek.com/wp-content/uploads/2016/08/Long-Path-Names-Hacks.zip just run the add the registry key.
 
-* Current Version -
++ Current Version - 83.0.0c
 
-* Date - 3/29/2021 at 8:37pm
++ Date - 4/25/2021 at 12:17-am
 
 # Raw Pack Copy (Use if curse is slow or fails to update)
 
-* https://www.dropbox.com/s/z0yme8rb7lqp3nl/Pixelmon%20BYOI-73.0.3c.zip?dl=0
++ https://www.dropbox.com/s/syymt8f5fmpjl1b/Pixelmon%20BYOI-83.0.0c.zip?dl=0
 
 # Launcher Overview
 
-* ATLauncher, Curseforge, Gorilla Dev Launcher, Mojang and Multimc = https://youtu.be/tEY5tMqhoOY
++ ATLauncher, Curseforge, Gorilla Dev Launcher, Mojang and Multimc = https://youtu.be/tEY5tMqhoOY
 
 # Launchers
 
-* Curseforge + Overwolf - https://curseforge.overwolf.com/
++ Curseforge + Overwolf - https://curseforge.overwolf.com/
 
-* Gorilla Dev Launcher - https://gdevs.io/#downloadContainer
++ Gorilla Dev Launcher - https://gdevs.io/#downloadContainer
 
-* Koala Launcher - https://www.koalalauncher.com/
++ Koala Launcher - https://www.koalalauncher.com/
 
-* MultiMC - https://multimc.org/
++ MultiMC - https://multimc.org/
 
 # Optional Client Only Mods (Includes Gameshark for Pixelmon)
 
-* https://www.dropbox.com/sh/87nl38ddb3evi7t/AAD_pq342GWSBosyqLLilpwGa?dl=0
++ https://www.dropbox.com/sh/87nl38ddb3evi7t/AAD_pq342GWSBosyqLLilpwGa?dl=0
 
-* Notes - Added Reauth to help with authentication issues.
++ Notes - Removed a mod which just kind of showed up and also fixed a crash.
 
 # Modlist
 
@@ -98,34 +102,40 @@ or
   [1.12.2] SecurityCraft v1.8.21.jar          
   AbyssalCraft Integration-1.12.2-1.11.2.jar  
   AbyssalCraft-1.12.2-1.10.3.jar              
+  AdFinders-1.12.2-2.3.17.0-build.0559.jar    
   AIImprovements-1.12-0.0.1b3.jar             
   AIReducer-1.12.2-0.2.1.jar                  
   antighost-1.12-forge14.21.1.2387-1.1.1.jar  
   AppleCore-mc1.12.2-3.4.0.jar                
   AppleSkin-mc1.12-1.0.14.jar                 
   ApriTree-2.4.1.jar                          
+  Aquaculture-1.12.2-1.6.8.jar                
   Architect-MC1.12-1.2.0.6.jar                
   architecturecraft-1.12-3.98.jar             
   armoryexpansion-2.0.0-alpha.jar             
   AttributeFix-1.12.2-1.0.10.jar              
   AutoRegLib-1.3-32.jar                       
   Baubles-1.12-1.5.2.jar                      
-  BetterAdvancements-1.12.2-0.1.0.77.jar      
   bettercaves-1.12.2-2.0.4.jar                
   BetterDiving-1.12.2-1.5.8.jar               
-  BetterMineshaftsForge-1.12.2-2.2.jar        
+  BetterMineshaftsForge-1.12.2-2.2.1.jar      
   BetterPingDisplay-1.12.2-1.0.jar            
+  binnie-mods-1.12.2-2.5.1.203.jar            
   biolib-1.1.2.jar                            
   BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar
   Botania r1.10-363.jar                       
   BuildingGadgets-2.8.4.jar                   
+  carryon-1.12.2-1.12.4.16.jar                
   cc-tweaked-1.12.2-1.89.2.jar                
   champions-1.12.2-1.0.11.10.jar              
   ChestTransporter-1.12.2-2.8.8.jar           
   Chisel-MC1.12.2-1.0.2.45.jar                
   chiselsandbits-14.33.jar                    
-  Chocolate_Quest_Repoured-1.12.2-2.3.1B.jar  
-  collective-1.12.2-2.25.jar                  
+  Chocolate_Quest_Repoured-1.12.2-2.5.2B.jar  
+  ChunkAnimator-MC1.12-1.2.jar                
+  collective-1.12.2-2.26.jar                  
+  comforts-1.12.2-1.4.1.3.jar                 
+  CommonCapabilities-1.12.2-2.4.8.jar         
   CompactVoidMiners-R1.11.jar                 
   conarm-1.12.2-1.2.5.10.jar                  
   ConfigurableCane-1.0.jar                    
@@ -134,13 +144,16 @@ or
   CookingForBlockheads_1.12.2-6.5.0.jar       
   CosmeticArmorReworked-1.12.2-v5a.jar        
   CraftingTweaks_1.12.2-8.1.9.jar             
-  CraftTweaker2-1.12-4.1.20.625.jar           
-  CreativeCore_v1.10.47_mc1.12.2.jar          
+  CraftTweaker2-1.12-4.1.20.641.jar           
+  CreativeCore_v1.10.57_mc1.12.2.jar          
   CTM-MC1.12.2-1.0.2.31.jar                   
   Cucumber-1.12.2-1.1.3.jar                   
-  Cyclic-1.12.2-1.20.8.jar                    
+  Cyclic-1.12.2-1.20.9.jar                    
+  CyclopsCore-1.12.2-1.6.7.jar                
   DeathQuotes-1.2.0-mc1.12-forge.jar          
   DimensionalDoors-1.12.2-3.1.2-UNOFFICIAL.jar
+  DoomlikeDungeons-1.13.2-MC1.12.2.jar        
+  dungeonmobs-5.8.6-MC1.12.2.jar              
   EnderCore-1.12.2-0.5.76.jar                 
   EnderIO-1.12.2-5.2.66.jar                   
   EnderIO-endergy-1.12.2-5.2.66.jar           
@@ -148,7 +161,7 @@ or
   EndReborn [0.3.9].jar                       
   engineersdecor-1.12.2-1.1.2.jar             
   engineerstools-1.12.2-1.0.5.jar             
-  EntityCulling-1.12.2-4.1.1.jar              
+  EntityCulling-1.12.2-4.1.2.jar              
   Erebus-1.0.32.jar                           
   Exchangers-1.12.2-2.10.1.jar                
   exposer-1.2.jar                             
@@ -164,6 +177,9 @@ or
   FeederHelmet-1.4.3.jar                      
   flatcoloredblocks-mc1.12-6.8.jar            
   foamfix-0.10.11-1.12.2.jar                  
+  forestry_1.12.2-5.8.2.422.jar               
+  forge-1.12.2-geckolib-3.0.0-beta.7.jar      
+  ForgeEndertech-1.12.2-4.5.5.0-build.0561.jar
   Forgelin-1.8.4.jar                          
   FTBLib-5.4.7.2.jar                          
   FTBMoney-1.2.0.47.jar                       
@@ -173,9 +189,10 @@ or
   gottagofast-1.1.jar                         
   Growable Apricorns-2.0.0.jar                
   GunpowderLib-1.12.2-1.1.jar                 
+  handoveryouritems_1.12.2-1.2.jar            
   hole_filler_mod-1.2.4.jar                   
   Hwyla-1.8.26-B41_1.12.2.jar                 
-  InventoryHud_1.12.2.forge-3.2.1.jar         
+  InventoryHud_1.12.2.forge-3.2.2.jar         
   ironchest-1.12.2-7.0.72.847.jar             
   ItemFilters-1.0.4.2.jar                     
   ItemPhysic_Full_1.4.34_mc1.12.2.jar         
@@ -191,19 +208,21 @@ or
   LargeFluidTank-12.5.2.jar                   
   LibraryEx-1.12.2-1.2.1.jar                  
   limelib-1.12.2-1.7.12.jar                   
-  LittleFrames_v1.0.5_mc1.12.2.jar            
-  LittleTiles_v1.5.0-pre327_mc1.12.2.jar      
+  LittleFrames_v1.0.6_mc1.12.2.jar            
+  LittleTiles_v1.5.4_mc1.12.2.jar             
   llibrary-1.7.20-1.12.2.jar                  
   loliasm-1.1.jar                             
   lostcities-1.12-2.0.22.jar                  
   LunatriusCore-1.12.2-1.2.0.42-universal.jar 
+  lycanitesmobs-1.12.2-2.0.7.2.jar            
   Mantle-1.12-1.3.3.55.jar                    
   maxpotidext-1.0.3.jar                       
+  mcjtylib-1.12-3.5.4.jar                     
   Mekanism-1.12.2-9.8.3.390.jar               
   MekanismGenerators-1.12.2-9.8.3.390.jar     
   MekanismTools-1.12.2-9.8.3.390.jar          
   memorycleaner-1.4.jar                       
-  Metallurgy-4-Reforged-1.2.5.jar             
+  Metallurgy-4-Reforged-1.2.7.jar             
   MixinBootstrap-1.0.5.jar                    
   modtweaker-4.0.18.jar                       
   morebeautifulplates-1.12.2-1.1.4.jar        
@@ -213,7 +232,7 @@ or
   MouseTweaks-2.10-mc1.12.2.jar               
   movingelevators-1.2.33-mc1.12.jar           
   MTLib-3.0.6.jar                             
-  music_player-1.12.2-2.1.1.119.jar           
+  music_player-1.12.2-2.1.1.125.jar           
   MysticalAdaptations-1.12.2-1.8.5.jar        
   MysticalAgradditions-1.12.2-1.3.2.jar       
   MysticalAgriculture-1.12.2-1.7.5.jar        
@@ -245,11 +264,15 @@ or
   refinedstorageaddons-0.4.5.jar              
   refinedstoragerequestify-1.12.2-1.0.2-3.jar 
   reskin-1.2.0.jar                            
+  rftools-1.12-7.73.jar                       
+  rftoolsctrl-1.12-2.0.2-patch-2.jar          
+  rftoolspower-1.12-1.2.0.jar                 
+  RoguelikeDungeonsFnarEdition-1.12.2-2.3.1.jar
   rsgauges-1.12.2-1.2.5.jar                   
+  savemystronghold-1.12.2-1.0.0.jar           
   scalingfeast-1.7.0.jar                      
   ScalingHealth-1.12.2-1.3.42+147.jar         
   SilentLib-1.12.2-3.0.14+168.jar             
-  simple-rpc-1.12.2-2.0-all.jar               
   SimplyJetpacks2-1.12.2-2.2.19.0.jar         
   SmoothFont-mc1.12.2-2.1.2.jar               
   solcarrot-1.12.2-1.8.4.jar                  
@@ -257,6 +280,7 @@ or
   SpiceOfLife-mc1.12-1.3.12.jar               
   Stackie-1.12.2-1.6.0.48-universal.jar       
   stellarfluidconduit-1.12.2-1.0.3.jar        
+  StepUp-1.0.2-mc1.10-1.12.jar                
   stg-1.12.2-1.2.3.jar                        
   StorageTech R6.0.jar                        
   stygian-1.0.4.jar                           
@@ -266,6 +290,7 @@ or
   TheBetweenlands-3.7.3-universal.jar         
   theoneprobe-1.12-1.4.28.jar                 
   TickCentral-3.2.jar                         
+  TickDynamic-1.12.2-1.0.3.jar                
   tinker_io-1.12.2-rw2.8.3.jar                
   tinkers_reforged-1.5.1.jar                  
   TinkersComplement-1.12.2-0.4.3.jar          
@@ -275,6 +300,7 @@ or
   Toast Control-1.12.2-1.8.1.jar              
   tombstone-4.1.2-1.12.2.jar                  
   TorchBandolier-1.12.2-0.1.1-4.jar           
+  torohealth-1.12.2-11.jar                    
   tweakersconstruct-1.12.2-1.5.6.jar          
   u_team_core-1.12.2-2.2.5.147.jar            
   UnlimitedChiselWorks-0.3.4.jar              
